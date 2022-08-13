@@ -1,6 +1,8 @@
 import { useRouter } from "next/router";
 import { politicians } from "./index";
 import { useEffect, useState } from "react";
+import { URL } from "next/dist/compiled/@edge-runtime/primitives/url";
+import legislatorsCurrent from "../../public/legislators-current.json";
 
 export default function Politician({ politician }) {
   const [primaryCampaignCommittee, setPrimaryCampaginCommittee] = useState([]);
@@ -10,7 +12,7 @@ export default function Politician({ politician }) {
 
   useEffect(() => {
     console.log({ candidate_id });
-    const url = `http://localhost:3000/api/fec/committee?candidate_id=${candidate_id}`;
+    const url = `/api/fec/committee?candidate_id=${candidate_id}`;
     fetch(url)
       .then((res) => res.json())
       .then((data) => {
@@ -45,9 +47,7 @@ export default function Politician({ politician }) {
 }
 
 export async function getStaticProps({ params }) {
-  const req = await fetch("http://localhost:3000/legislators-current.json");
-  const data = await req.json();
-  const politician = data.filter(
+  const politician = legislatorsCurrent.filter(
     (politician) => politician.id.bioguide === params.id
   )[0];
   return {
@@ -58,10 +58,7 @@ export async function getStaticProps({ params }) {
 }
 
 export async function getStaticPaths() {
-  const req = await fetch("http://localhost:3000/legislators-current.json");
-  const data = await req.json();
-
-  const paths = data.map((politician) => ({
+  const paths = legislatorsCurrent.map((politician) => ({
     params: { id: politician.id.bioguide },
   }));
 
