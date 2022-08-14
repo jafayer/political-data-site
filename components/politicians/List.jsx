@@ -17,6 +17,8 @@ export default function List({ politicians, type }) {
             objectFit="cover"
             width={75}
             height={75}
+            placeholder="blur"
+            blurDataURL="https://theunitedstates.io/images/congress/original/S000033.jpg"
           />
         </td>
         <td>{politician.name.official_full}</td>
