@@ -85,21 +85,23 @@
     max-height: 500px;
 }
 
+.table-container thead {
+    position: sticky;
+    top: 0;
+    background-color: #fff;
+    z-index: 100;
+}
+
 .table-container tbody tr {
     height: 81px;
     box-sizing: border-box;
 }
 
 .table-container table {
-    width: 800px;
     border-collapse: collapse;
     border-spacing: 0;
     border: 1px solid #ddd;
     text-align: center;
-}
-
-.table-container tr:nth-child(even) {
-    background-color: #f2f2f2;
 }
 
 .searchbar input {

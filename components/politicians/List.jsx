@@ -27,7 +27,7 @@ export default function List({ politicians, type }) {
         <td>{district ? district : "N/A"}</td>
         <td>{isInViewport ? "true" : "false"}</td>
         <td>
-          <a href={`/politicians/${politician.id.bioguide}`}>Link</a>
+          <a className="btn btn-primary" href={`/politicians/${politician.id.bioguide}`}>Link</a>
         </td>
       </tr>
     );
@@ -35,7 +35,7 @@ export default function List({ politicians, type }) {
 
   return (
     <div className="table-container" onScroll={handleScroll}>
-      <table>
+      <table className="table table-striped align-middle">
         <thead>
           <tr>
             <th>Picture</th>
