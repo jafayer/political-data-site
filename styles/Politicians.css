@@ -31,13 +31,16 @@
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
+    height: 800px;
     max-width: 1200px;
+    overflow-y: scroll;
     margin: 0 auto;
 }
 
 .li {
     margin: 1rem;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+    width: 300px;
 }
 
 .controls {
@@ -61,4 +64,55 @@
 .control:hover {
     cursor: pointer;
     background-color: #1d64c2;
+}
+
+.visible {
+    display: block;
+}
+
+.hidden {
+    display: none;
+}
+
+.table-container {
+    margin: 15px auto;
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    width: 900px;
+    max-width: 100%;
+    overflow: scroll;
+    max-height: 500px;
+}
+
+.table-container tbody tr {
+    height: 81px;
+    box-sizing: border-box;
+}
+
+.table-container table {
+    width: 800px;
+    border-collapse: collapse;
+    border-spacing: 0;
+    border: 1px solid #ddd;
+    text-align: center;
+}
+
+.table-container tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.searchbar input {
+    width: 60%;
+    padding: 12px 20px;
+    margin: 8px auto;
+    display: block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.searchbar input:active, .searchbar input:focus {
+    border-color: #3993b1;
+    outline: none;
 }
