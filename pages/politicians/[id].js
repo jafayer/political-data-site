@@ -1,17 +1,19 @@
 import { useRouter } from "next/router";
 import { politicians } from "./index";
 import { useEffect, useState } from "react";
-import { URL } from "next/dist/compiled/@edge-runtime/primitives/url";
 import legislatorsCurrent from "../../public/legislators-current.json";
+import PoliticianImage from "../../helpers/getPoliticianImage";
+import { parsePollingData } from "../../helpers/pollingData";
+import { mapStateCodeToName } from "../../helpers/modLegislators";
 
-export default function Politician({ politician }) {
-  const [primaryCampaignCommittee, setPrimaryCampaginCommittee] = useState([]);
+export default function Politician({ politician, polls }) {
+  const [primaryCampaignCommittee, setPrimaryCampaginCommittee] = useState({});
+  const [candidatePolls, setCandidatePolls] = useState([]);
   const currentTerm = politician.terms[politician.terms.length - 1];
   const { party, state, type, district } = currentTerm;
   const candidate_id = politician.id.fec[politician.id.fec.length - 1];
 
   useEffect(() => {
-    console.log({ candidate_id });
     const url = `/api/fec/committee?candidate_id=${candidate_id}`;
     fetch(url)
       .then((res) => res.json())
@@ -21,38 +23,65 @@ export default function Politician({ politician }) {
       .catch((err) => {
         console.log(err);
       });
+
+    setCandidatePolls(polls);
   }, []);
 
   return (
-    <id>
-      <h1>Politician</h1>
-      <h2>{politician.name.official_full}</h2>
-      <h3>{`${party[0]}-${state}`}</h3>
-      {primaryCampaignCommittee && (
-        <>
-          <p>
-            Primary committee name: {primaryCampaignCommittee.committee_name}
-          </p>
-          <p>
-            Cash on hand: $
-            {primaryCampaignCommittee.last_cash_on_hand_end_period}
-          </p>
-          <p>Contributions: ${primaryCampaignCommittee.net_contributions}</p>
-          <p>Spent: ${primaryCampaignCommittee.disbursements}</p>
-          <p>Last Updated: {primaryCampaignCommittee.coverage_end_date}</p>
-        </>
-      )}
-    </id>
+    <div className="p-3">
+      <h2 className="text-center">{politician.name.official_full}</h2>
+      <h3 className="text-center">{`${
+        type == "sen" ? "Senator" : "Representative"
+      } ${party[0]}-${state}`}</h3>
+      <div className="text-center">
+        <PoliticianImage
+          politician={politician}
+          dimensions={{ w: 150, h: 150 }}
+        />
+      </div>
+
+      <p>Primary committee name: {primaryCampaignCommittee.committee_name}</p>
+      <p>
+        Cash on hand: ${primaryCampaignCommittee.last_cash_on_hand_end_period}
+      </p>
+      <p>Contributions: ${primaryCampaignCommittee.net_contributions}</p>
+      <p>Spent: ${primaryCampaignCommittee.disbursements}</p>
+      <p>Last Updated: {primaryCampaignCommittee.coverage_end_date}</p>
+
+      <div>
+        <h3>Recent Polls</h3>
+        {candidatePolls.map((poll) => {
+          // poll is an object containing poll.polls
+          const polls = poll.polls;
+          const toplines = polls.map((pollLine) => {
+            return <p>{`${pollLine.candidate_name}: ${pollLine.pct}`}</p>;
+          });
+
+          return (
+            <div>
+              <h4>{poll.createdAt}</h4>
+              {toplines}
+            </div>
+          );
+        })}
+      </div>
+    </div>
   );
 }
 
 export async function getStaticProps({ params }) {
+  // get polling data
+
   const politician = legislatorsCurrent.filter(
     (politician) => politician.id.bioguide === params.id
   )[0];
+
+  const polls = parsePollingData(politician);
+  console.log({ polls });
   return {
     props: {
       politician,
+      polls,
     },
   };
 }

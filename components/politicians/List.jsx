@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Image from "next/image";
+import PoliticianImage from "../../helpers/getPoliticianImage";
 
 export default function List({ politicians, type }) {
   console.log({ length: politicians.length });
@@ -11,15 +11,7 @@ export default function List({ politicians, type }) {
     return (
       <tr key={`${politician.id.bioguide}-${type}`}>
         <td>
-          <Image
-            src={`https://theunitedstates.io/images/congress/original/${politician.id.bioguide}.jpg`}
-            alt={politician.name.official_full}
-            objectFit="cover"
-            width={75}
-            height={75}
-            placeholder="blur"
-            blurDataURL="https://theunitedstates.io/images/congress/original/S000033.jpg"
-          />
+          <PoliticianImage politician={politician} dimensions={{w: 75, h:75}} />
         </td>
         <td>{politician.name.official_full}</td>
         <td>{state[1]}</td>

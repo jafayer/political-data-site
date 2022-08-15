@@ -71,3 +71,8 @@ export function getFormattedLegislators() {
 
   return politicians;
 }
+
+export function mapStateCodeToName(code) {
+  const state = usStates.find((item) => item[1] === code);
+  return state ? state[0] : code;
+}
