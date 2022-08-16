@@ -1,5 +1,5 @@
 import { parse } from "csv-parse/sync";
-import { readFileSync } from "fs";
+import houseData from "../public/polls/house_polls.json";
 
 export function parsePollingData(politician) {
   const currentTerm = politician.terms[politician.terms.length - 1];
@@ -56,4 +56,21 @@ export function parsePollingData(politician) {
 
   console.log(candidatePolls);
   return candidatePolls;
+}
+
+export function queryHousePollingData(state, district) {
+  const filtered = houseData.filter((poll) => {
+    return poll.state === state && poll.seat_number === district;
+  });
+
+  const groupedByPollId = filtered.reduce((accu, poll) => {
+    if (accu[poll.poll_id]) {
+      accu[poll.poll_id].push(poll);
+    } else {
+      accu[poll.poll_id] = [poll];
+    }
+    return accu;
+  }, {});
+
+  return groupedByPollId;
 }

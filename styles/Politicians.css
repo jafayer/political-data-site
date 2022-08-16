@@ -77,7 +77,6 @@
 .table-container {
     margin: 15px auto;
     display: flex;
-    justify-content: center;
     align-items: baseline;
     width: 900px;
     max-width: 100%;
