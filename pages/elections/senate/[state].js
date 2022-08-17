@@ -50,6 +50,7 @@ export default function DistrictPage({ data, state, type, district }) {
       data={data}
       results={results}
       polls={polls}
+      state={state}
       type={type}
       district={district ? district : null}
     />
