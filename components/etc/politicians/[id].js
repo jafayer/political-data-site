@@ -59,7 +59,6 @@ export async function getStaticProps({ params }) {
   )[0];
 
   const polls = parsePollingData(politician);
-  console.log({ polls });
   return {
     props: {
       politician,

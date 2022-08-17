@@ -1,5 +1,5 @@
-import electionData from "../../public/elections/enriched-data-by-state.json";
-import ElectionsHome from "../../components/elections/ElectionsHome";
+import electionData from "../../../public/elections/enriched-data-by-state.json";
+import ElectionsHome from "../../../components/elections/ElectionsHome";
 import { useEffect, useState } from "react";
 
 export default function HouseHome(props) {
@@ -14,14 +14,13 @@ export default function HouseHome(props) {
       .then((res) => res.json())
       .then((data) => {
         setPolls(data);
-        console.log("what about this?", data);
       })
       .catch((err) => {
         console.log(err);
       });
   }, []);
 
-  return <ElectionsHome data={props.data} polls={polls} />;
+  return <ElectionsHome type="house" data={props.data} polls={polls} />;
 }
 
 export async function getStaticProps() {

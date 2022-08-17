@@ -76,3 +76,28 @@ export function mapStateCodeToName(code) {
   const state = usStates.find((item) => item[1] === code);
   return state ? state[0] : code;
 }
+
+export function mapStateNameToCode(name) {
+  const state = usStates.find((item) => item[0] === name);
+  return state ? state[1] : name;
+}
+
+export function convertSenateRatingToWords(cookPVI) {
+  const rating = parseInt(cookPVI);
+  switch (rating) {
+    case 0:
+      return "Toss-up";
+    case 1:
+      return "Lean D";
+    case 2:
+      return "Likely D";
+    case 3:
+      return "Solid D";
+    case -1:
+      return "Lean R";
+    case -2:
+      return "Likely R";
+    case -3:
+      return "Solid R";
+  }
+}

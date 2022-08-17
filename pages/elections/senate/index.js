@@ -1,14 +1,13 @@
-import electionData from "../../public/elections/enriched-data-by-state.json";
-import ElectionsHome from "../../components/elections/ElectionsHome";
+import electionData from "../../../public/elections/enriched-senate-data-by-state.json";
+import ElectionsHome from "../../../components/elections/ElectionsHome";
 import { useEffect, useState } from "react";
 
 export default function HouseHome(props) {
   const [polls, setPolls] = useState([]);
 
   useEffect(() => {
-    fetch("/api/fiveThirtyEight?type=house")
+    fetch("/api/fiveThirtyEight?type=senate")
       .then((res) => {
-        console.log(res);
         return res;
       })
       .then((res) => res.json())
@@ -21,7 +20,7 @@ export default function HouseHome(props) {
       });
   }, []);
 
-  return <ElectionsHome data={props.data} polls={polls} />;
+  return <ElectionsHome type="senate" data={props.data} polls={polls} />;
 }
 
 export async function getStaticProps() {

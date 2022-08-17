@@ -82,7 +82,6 @@ export default function DistrictPage({ district, data, polls }) {
     if (polls) {
       setActivePoll(polls[0]);
     }
-    console.log(polls, activePoll);
   }, []);
   return (
     <div className="p-4">
@@ -145,7 +144,6 @@ export default function DistrictPage({ district, data, polls }) {
                   );
 
                   setActivePoll(activePoll);
-                  console.log({ activePoll });
                 }}
               >
                 {polls.map((poll) => {

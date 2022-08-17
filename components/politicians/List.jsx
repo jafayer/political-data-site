@@ -2,7 +2,6 @@ import { useState } from "react";
 import PoliticianImage from "../../helpers/getPoliticianImage";
 
 export default function List({ politicians, type }) {
-  console.log({ length: politicians.length });
   const [scrollTop, setScrollTop] = useState(0);
   const TableRow = ({ politician, rowIndex, isInViewport }) => {
     //caluclate card given rowIndex % 3 and columnIndex
@@ -11,7 +10,10 @@ export default function List({ politicians, type }) {
     return (
       <tr key={`${politician.id.bioguide}-${type}`}>
         <td>
-          <PoliticianImage politician={politician} dimensions={{w: 75, h:75}} />
+          <PoliticianImage
+            politician={politician}
+            dimensions={{ w: 75, h: 75 }}
+          />
         </td>
         <td>{politician.name.official_full}</td>
         <td>{state[1]}</td>
@@ -19,7 +21,12 @@ export default function List({ politicians, type }) {
         <td>{district ? district : "N/A"}</td>
         <td>{isInViewport ? "true" : "false"}</td>
         <td>
-          <a className="btn btn-primary" href={`/politicians/${politician.id.bioguide}`}>Link</a>
+          <a
+            className="btn btn-primary"
+            href={`/politicians/${politician.id.bioguide}`}
+          >
+            Link
+          </a>
         </td>
       </tr>
     );
