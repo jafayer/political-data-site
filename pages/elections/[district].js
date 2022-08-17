@@ -105,7 +105,7 @@ export default function DistrictPage({ district, data, polls }) {
           {results && (
             <div
               className="d-flex justify-content-center align-center m-auto"
-              style={{ height: 500, width: 900 }}
+              style={{ height: 500, width: 900, maxWidth: "100%" }}
             >
               <ResponsiveContainer width="100%" height="100%">
                 <BarChart
@@ -171,7 +171,7 @@ export default function DistrictPage({ district, data, polls }) {
             {activePoll && (
               <div
                 className="d-flex justify-content-center align-items-center m-auto"
-                style={{ height: 500, width: 800 }}
+                style={{ height: 500, width: 800, maxWidth: "100%" }}
               >
                 <ResponsiveContainer width="100%" height="100%">
                   <BarChart

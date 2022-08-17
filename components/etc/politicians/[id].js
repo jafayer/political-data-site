@@ -1,10 +1,10 @@
 import { useRouter } from "next/router";
 import { politicians } from "./index";
 import { useEffect, useState } from "react";
-import legislatorsCurrent from "../../public/legislators-current.json";
-import PoliticianImage from "../../helpers/getPoliticianImage";
-import { parsePollingData } from "../../helpers/pollingData";
-import { mapStateCodeToName } from "../../helpers/modLegislators";
+import legislatorsCurrent from "../../../public/legislators-current.json";
+import PoliticianImage from "../../../helpers/getPoliticianImage";
+import { parsePollingData } from "../../../helpers/pollingData";
+import { mapStateCodeToName } from "../../../helpers/modLegislators";
 
 export default function Politician({ politician, polls }) {
   const [primaryCampaignCommittee, setPrimaryCampaginCommittee] = useState({});

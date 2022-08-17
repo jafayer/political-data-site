@@ -1,6 +1,6 @@
-import List from "../../components/politicians/List";
+import List from "../../politicians/List";
 import { useState, useEffect } from "react";
-import { getFormattedLegislators } from "../../helpers/modLegislators";
+import { getFormattedLegislators } from "../../../helpers/modLegislators";
 import Fuse from "fuse.js";
 
 export default function Politicians({ politicians }) {
