@@ -1,0 +1,7016 @@
+[
+  {
+    "id": "144639",
+    "subgroup": "All polls",
+    "sampleSize": "600",
+    "population": "lv",
+    "grade": "",
+    "url": "https://victory-insights.com/files/NJ11_Research_Booklet_05-2021.pdf",
+    "created_at": "2021-09-01",
+    "startDate": "2021-05-18",
+    "endDate": "2021-05-19",
+    "pollster": "Victory Insights",
+    "pollsterRatingLink": null,
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Sherrill",
+        "pct": "51.0",
+        "party": "Dem",
+        "incumbent": true
+      },
+      {
+        "choice": "Becchi",
+        "pct": "49.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 11",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "New Jersey",
+    "district": "11"
+  },
+  {
+    "id": "144640",
+    "subgroup": "All polls",
+    "sampleSize": "600",
+    "population": "lv",
+    "grade": "",
+    "url": "https://victory-insights.com/files/NJ11_Research_Booklet_05-2021.pdf",
+    "created_at": "2021-09-01",
+    "startDate": "2021-05-18",
+    "endDate": "2021-05-19",
+    "pollster": "Victory Insights",
+    "pollsterRatingLink": null,
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Sherrill",
+        "pct": "51.34",
+        "party": "Dem",
+        "incumbent": true
+      },
+      {
+        "choice": "Brotschol",
+        "pct": "48.66",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 11",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "New Jersey",
+    "district": "11"
+  },
+  {
+    "id": "145401",
+    "subgroup": "All polls",
+    "sampleSize": "1000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://twitter.com/kirk_bado/status/1438488648706629640",
+    "created_at": "2021-09-16",
+    "startDate": "2021-09-09",
+    "endDate": "2021-09-09",
+    "pollster": "Moore Information",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/moore-information/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Axne",
+        "pct": "46.0",
+        "party": "Dem",
+        "incumbent": true
+      },
+      {
+        "choice": "Nunn",
+        "pct": "42.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 3",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "Zach Nunn",
+        "partisan": "Republican Party",
+        "candidate": true
+      }
+    ],
+    "internal": true,
+    "inAvg": false,
+    "cycle": "2022",
+    "partisan": "REP",
+    "state": "Iowa",
+    "district": "3"
+  },
+  {
+    "id": "149663",
+    "subgroup": "All polls",
+    "sampleSize": "532",
+    "population": "lv",
+    "grade": "",
+    "url": "http://thelistenergroup.com/rebekah-jones-in-tight-race-vs-congressman-matt-gaetz/",
+    "created_at": "2021-11-09",
+    "startDate": "2021-10-08",
+    "endDate": "2021-10-28",
+    "pollster": "The Political Matrix/The Listener Group",
+    "pollsterRatingLink": null,
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Jones",
+        "pct": "33.8",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Gaetz",
+        "pct": "41.7",
+        "party": "Rep",
+        "incumbent": true
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "Rebekah Jones",
+        "partisan": "Democratic Party",
+        "candidate": true
+      }
+    ],
+    "internal": true,
+    "inAvg": false,
+    "cycle": "2022",
+    "partisan": "DEM",
+    "state": "Florida",
+    "district": "1"
+  },
+  {
+    "id": "151220",
+    "subgroup": "All polls",
+    "sampleSize": "600",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://www.breitbart.com/politics/2021/12/20/exclusive-poll-loren-culp-leads-anti-trump-impeachment-backer-dan-newhouse-in-washington-state/",
+    "created_at": "2021-12-21",
+    "startDate": "2021-12-09",
+    "endDate": "2021-12-11",
+    "pollster": "Spry Strategies",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/spry-strategies/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Culp",
+        "pct": "37.9",
+        "party": "Rep",
+        "incumbent": false
+      },
+      {
+        "choice": "Newhouse",
+        "pct": "31.1",
+        "party": "Rep",
+        "incumbent": true
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 4",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "Loren Culp",
+        "partisan": "Republican Party",
+        "candidate": true
+      }
+    ],
+    "internal": true,
+    "inAvg": false,
+    "cycle": "2022",
+    "partisan": "REP",
+    "state": "Washington",
+    "district": "4"
+  },
+  {
+    "id": "152288",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "rv",
+    "grade": "C/D",
+    "url": "https://www.realclearpolitics.com/docs/2022/FREQ_Congress_Dist_10_Tues_01_25_2022.pdf",
+    "created_at": "2022-01-31",
+    "startDate": "2022-01-25",
+    "endDate": "2022-01-27",
+    "pollster": "Target Insyght",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/target-insyght/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Taylor",
+        "pct": "46.0",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "James",
+        "pct": "42.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 10",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "Deadline Detroit",
+        "partisan": null,
+        "internal": false,
+        "url": "https://www.deadlinedetroit.com/"
+      }
+    ],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "Michigan",
+    "district": "10"
+  },
+  {
+    "id": "152289",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "rv",
+    "grade": "C/D",
+    "url": "https://www.realclearpolitics.com/docs/2022/FREQ_Congress_Dist_10_Tues_01_25_2022.pdf",
+    "created_at": "2022-01-31",
+    "startDate": "2022-01-25",
+    "endDate": "2022-01-27",
+    "pollster": "Target Insyght",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/target-insyght/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Marlinga",
+        "pct": "52.0",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Esshaki",
+        "pct": "31.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 10",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "Deadline Detroit",
+        "partisan": null,
+        "internal": false,
+        "url": "https://www.deadlinedetroit.com/"
+      }
+    ],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "Michigan",
+    "district": "10"
+  },
+  {
+    "id": "152290",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "rv",
+    "grade": "C/D",
+    "url": "https://www.realclearpolitics.com/docs/2022/FREQ_Congress_Dist_10_Tues_01_25_2022.pdf",
+    "created_at": "2022-01-31",
+    "startDate": "2022-01-25",
+    "endDate": "2022-01-27",
+    "pollster": "Target Insyght",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/target-insyght/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Taylor",
+        "pct": "39.0",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Esshaki",
+        "pct": "34.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 10",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "Deadline Detroit",
+        "partisan": null,
+        "internal": false,
+        "url": "https://www.deadlinedetroit.com/"
+      }
+    ],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "Michigan",
+    "district": "10"
+  },
+  {
+    "id": "152291",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "rv",
+    "grade": "C/D",
+    "url": "https://www.realclearpolitics.com/docs/2022/FREQ_Congress_Dist_10_Tues_01_25_2022.pdf",
+    "created_at": "2022-01-31",
+    "startDate": "2022-01-25",
+    "endDate": "2022-01-27",
+    "pollster": "Target Insyght",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/target-insyght/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Marlinga",
+        "pct": "46.0",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "James",
+        "pct": "43.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 10",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "Deadline Detroit",
+        "partisan": null,
+        "internal": false,
+        "url": "https://www.deadlinedetroit.com/"
+      }
+    ],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "Michigan",
+    "district": "10"
+  },
+  {
+    "id": "152443",
+    "subgroup": "All polls",
+    "sampleSize": "623",
+    "population": "v",
+    "grade": "A-",
+    "url": "https://www.politico.com/f/?id=0000017e-d215-ddf9-a9fe-da17763f0000",
+    "created_at": "2022-02-07",
+    "startDate": "2022-02-02",
+    "endDate": "2022-02-03",
+    "pollster": "Public Policy Polling",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/public-policy-polling/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Mathis",
+        "pct": "42.0",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Hinson",
+        "pct": "43.0",
+        "party": "Rep",
+        "incumbent": true
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 2",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "Liz Mathis",
+        "partisan": "Democratic Party",
+        "candidate": true
+      }
+    ],
+    "internal": true,
+    "inAvg": false,
+    "cycle": "2022",
+    "partisan": "DEM",
+    "state": "Iowa",
+    "district": "2"
+  },
+  {
+    "id": "152633",
+    "subgroup": "All polls",
+    "sampleSize": "300",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://m.washingtontimes.com/news/2022/feb/11/dccc-chair-sean-maloney-vulnerable-new-yorks-18th-/",
+    "created_at": "2022-02-13",
+    "startDate": "2022-02-05",
+    "endDate": "2022-02-07",
+    "pollster": "BK Strategies",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/bk-strategies/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Maloney",
+        "pct": "37.0",
+        "party": "Dem",
+        "incumbent": true
+      },
+      {
+        "choice": "Schmitt",
+        "pct": "38.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 18",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "Colin J. Schmitt",
+        "partisan": "Republican Party",
+        "candidate": true
+      }
+    ],
+    "internal": true,
+    "inAvg": false,
+    "cycle": "2022",
+    "partisan": "REP",
+    "state": "New York",
+    "district": "18"
+  },
+  {
+    "id": "152702",
+    "subgroup": "All polls",
+    "sampleSize": "600",
+    "population": "lv",
+    "grade": "B",
+    "url": "https://malinowskifornj.com/wp-content/uploads/2022/02/NJ-07-Public-Memo-2.7.22.docx.pdf",
+    "created_at": "2022-02-16",
+    "startDate": "2022-01-19",
+    "endDate": "2022-01-27",
+    "pollster": "GQR Research",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/gqr-research-gqrr/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Malinowski",
+        "pct": "46.0",
+        "party": "Dem",
+        "incumbent": true
+      },
+      {
+        "choice": "Kean",
+        "pct": "46.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 7",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "Tom Malinowski",
+        "partisan": "Democratic Party",
+        "candidate": true
+      }
+    ],
+    "internal": true,
+    "inAvg": false,
+    "cycle": "2022",
+    "partisan": "DEM",
+    "state": "New Jersey",
+    "district": "7"
+  },
+  {
+    "id": "153562",
+    "subgroup": "All polls",
+    "sampleSize": "432",
+    "population": "lv",
+    "grade": "",
+    "url": "http://thelistenergroup.com/rebekah-jones-leads-matt-gaetz-2/",
+    "created_at": "2022-03-13",
+    "startDate": "2022-02-25",
+    "endDate": "2022-03-08",
+    "pollster": "The Political Matrix/The Listener Group",
+    "pollsterRatingLink": null,
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Jones",
+        "pct": "52.8",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Gaetz",
+        "pct": "47.2",
+        "party": "Rep",
+        "incumbent": true
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "Rebekah Jones",
+        "partisan": "Democratic Party",
+        "candidate": true
+      }
+    ],
+    "internal": true,
+    "inAvg": false,
+    "cycle": "2022",
+    "partisan": "DEM",
+    "state": "Florida",
+    "district": "1"
+  },
+  {
+    "id": "153732",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://aboutbgov.com/15z",
+    "created_at": "2022-03-20",
+    "startDate": "2022-03-10",
+    "endDate": "2022-03-13",
+    "pollster": "Global Strategy Group",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/global-strategy-group/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Maloney",
+        "pct": "49.0",
+        "party": "Dem",
+        "incumbent": true
+      },
+      {
+        "choice": "Schmitt",
+        "pct": "37.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 18",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "Sean Patrick Maloney",
+        "partisan": "Democratic Party",
+        "candidate": true
+      }
+    ],
+    "internal": true,
+    "inAvg": false,
+    "cycle": "2022",
+    "partisan": "DEM",
+    "state": "New York",
+    "district": "18"
+  },
+  {
+    "id": "154331",
+    "subgroup": "All polls",
+    "sampleSize": "550",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://twitter.com/ercovey/status/1509519001885544451?s=20&t=CDvff-Ri4smQqtlSCaZclw",
+    "created_at": "2022-03-31",
+    "startDate": "2022-03-26",
+    "endDate": "2022-03-29",
+    "pollster": "Change Research",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/change-research/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Vargas",
+        "pct": "40.0",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Bacon",
+        "pct": "39.0",
+        "party": "Rep",
+        "incumbent": true
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 2",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "314 Action (hybrid PAC)",
+        "partisan": "Democratic Party",
+        "internal": false,
+        "url": "https://314action.org/"
+      }
+    ],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "partisan": "DEM",
+    "state": "Nebraska",
+    "district": "2"
+  },
+  {
+    "id": "154394",
+    "subgroup": "All polls",
+    "sampleSize": "728",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://s3.documentcloud.org/documents/21574833/ak-314-action-toplines-march-25-29-2022.pdf",
+    "created_at": "2022-04-05",
+    "startDate": "2022-03-25",
+    "endDate": "2022-03-29",
+    "pollster": "Change Research",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/change-research/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Palin",
+        "pct": "30.0",
+        "party": "Rep",
+        "incumbent": false
+      },
+      {
+        "choice": "Revak",
+        "pct": "9.0",
+        "party": "Rep",
+        "incumbent": false
+      },
+      {
+        "choice": "Reinbold",
+        "pct": "8.0",
+        "party": "Rep",
+        "incumbent": false
+      },
+      {
+        "choice": "Gross",
+        "pct": "33.0",
+        "party": "Ind",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "314 Action (hybrid PAC)",
+        "partisan": "Democratic Party",
+        "internal": false,
+        "url": "https://314action.org/"
+      }
+    ],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "partisan": "DEM",
+    "state": "Alaska",
+    "district": "1"
+  },
+  {
+    "id": "154395",
+    "subgroup": "All polls",
+    "sampleSize": "728",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://s3.documentcloud.org/documents/21574833/ak-314-action-toplines-march-25-29-2022.pdf",
+    "created_at": "2022-04-05",
+    "startDate": "2022-03-25",
+    "endDate": "2022-03-29",
+    "pollster": "Change Research",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/change-research/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Palin",
+        "pct": "30.0",
+        "party": "Rep",
+        "incumbent": false
+      },
+      {
+        "choice": "Gross",
+        "pct": "33.0",
+        "party": "Ind",
+        "incumbent": false
+      },
+      {
+        "choice": "Revak",
+        "pct": "11.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "314 Action (hybrid PAC)",
+        "partisan": "Democratic Party",
+        "internal": false,
+        "url": "https://314action.org/"
+      }
+    ],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "partisan": "DEM",
+    "state": "Alaska",
+    "district": "1"
+  },
+  {
+    "id": "154396",
+    "subgroup": "All polls",
+    "sampleSize": "728",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://s3.documentcloud.org/documents/21574833/ak-314-action-toplines-march-25-29-2022.pdf",
+    "created_at": "2022-04-05",
+    "startDate": "2022-03-25",
+    "endDate": "2022-03-29",
+    "pollster": "Change Research",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/change-research/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Palin",
+        "pct": "35.0",
+        "party": "Rep",
+        "incumbent": false
+      },
+      {
+        "choice": "Gross",
+        "pct": "35.0",
+        "party": "Ind",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "314 Action (hybrid PAC)",
+        "partisan": "Democratic Party",
+        "internal": false,
+        "url": "https://314action.org/"
+      }
+    ],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "partisan": "DEM",
+    "state": "Alaska",
+    "district": "1"
+  },
+  {
+    "id": "154397",
+    "subgroup": "All polls",
+    "sampleSize": "728",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://s3.documentcloud.org/documents/21574833/ak-314-action-toplines-march-25-29-2022.pdf",
+    "created_at": "2022-04-05",
+    "startDate": "2022-03-25",
+    "endDate": "2022-03-29",
+    "pollster": "Change Research",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/change-research/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Palin",
+        "pct": "42.0",
+        "party": "Rep",
+        "incumbent": false
+      },
+      {
+        "choice": "Gross",
+        "pct": "40.0",
+        "party": "Ind",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "314 Action (hybrid PAC)",
+        "partisan": "Democratic Party",
+        "internal": false,
+        "url": "https://314action.org/"
+      }
+    ],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "partisan": "DEM",
+    "state": "Alaska",
+    "district": "1"
+  },
+  {
+    "id": "154398",
+    "subgroup": "All polls",
+    "sampleSize": "728",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://s3.documentcloud.org/documents/21574833/ak-314-action-toplines-march-25-29-2022.pdf",
+    "created_at": "2022-04-05",
+    "startDate": "2022-03-25",
+    "endDate": "2022-03-29",
+    "pollster": "Change Research",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/change-research/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Revak",
+        "pct": "34.0",
+        "party": "Rep",
+        "incumbent": false
+      },
+      {
+        "choice": "Gross",
+        "pct": "35.0",
+        "party": "Ind",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "314 Action (hybrid PAC)",
+        "partisan": "Democratic Party",
+        "internal": false,
+        "url": "https://314action.org/"
+      }
+    ],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "partisan": "DEM",
+    "state": "Alaska",
+    "district": "1"
+  },
+  {
+    "id": "154477",
+    "subgroup": "All polls",
+    "sampleSize": "534",
+    "population": "rv",
+    "grade": "A-",
+    "url": "https://twitter.com/ercovey/status/1512076126281035796?s=20&t=mbibEBrgbqMpH18ljoSqeA",
+    "created_at": "2022-04-07",
+    "startDate": "2022-04-05",
+    "endDate": "2022-04-06",
+    "pollster": "Public Policy Polling",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/public-policy-polling/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Bohannan",
+        "pct": "42.0",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Miller-Meeks",
+        "pct": "43.0",
+        "party": "Rep",
+        "incumbent": true
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "314 Action (hybrid PAC)",
+        "partisan": "Democratic Party",
+        "internal": false,
+        "url": "https://314action.org/"
+      }
+    ],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "partisan": "DEM",
+    "state": "Iowa",
+    "district": "1"
+  },
+  {
+    "id": "154665",
+    "subgroup": "All polls",
+    "sampleSize": "300",
+    "population": "lv",
+    "grade": "C/D",
+    "url": "https://www.marylandmatters.org/2022/04/13/buckel-pondering-late-entry-into-6th-district-congressional-race/",
+    "created_at": "2022-04-15",
+    "startDate": "2022-04-07",
+    "endDate": "2022-04-10",
+    "pollster": "McLaughlin & Associates",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/mclaughlin-associates/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Trone",
+        "pct": "44.5",
+        "party": "Dem",
+        "incumbent": true
+      },
+      {
+        "choice": "Buckel",
+        "pct": "40.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 6",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "Maryland",
+    "district": "6"
+  },
+  {
+    "id": "154697",
+    "subgroup": "All polls",
+    "sampleSize": "600",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://drive.google.com/file/d/19Pi640eQKDpNT17cTNvlNzl5GfTlEo-J/view",
+    "created_at": "2022-04-19",
+    "startDate": "2022-02-25",
+    "endDate": "2022-03-03",
+    "pollster": "Tulchin Research",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/tulchin-research/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Rollins",
+        "pct": "42.0",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Calvert",
+        "pct": "41.0",
+        "party": "Rep",
+        "incumbent": true
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 41",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "WelcomePAC",
+        "partisan": "Democratic Party",
+        "internal": false,
+        "url": "https://welcomepac.org/"
+      }
+    ],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "partisan": "DEM",
+    "state": "California",
+    "district": "41"
+  },
+  {
+    "id": "154867",
+    "subgroup": "All polls",
+    "sampleSize": "583",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://scholars.unh.edu/survey_center_polls/694/",
+    "created_at": "2022-04-25",
+    "startDate": "2022-04-14",
+    "endDate": "2022-04-18",
+    "pollster": "University of New Hampshire",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/university-of-new-hampshire/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Balint",
+        "pct": "48.0",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Horne",
+        "pct": "25.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "Vermont",
+    "district": "1"
+  },
+  {
+    "id": "154868",
+    "subgroup": "All polls",
+    "sampleSize": "583",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://scholars.unh.edu/survey_center_polls/694/",
+    "created_at": "2022-04-25",
+    "startDate": "2022-04-14",
+    "endDate": "2022-04-18",
+    "pollster": "University of New Hampshire",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/university-of-new-hampshire/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Gray",
+        "pct": "49.0",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Horne",
+        "pct": "27.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "Vermont",
+    "district": "1"
+  },
+  {
+    "id": "154869",
+    "subgroup": "All polls",
+    "sampleSize": "583",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://scholars.unh.edu/survey_center_polls/694/",
+    "created_at": "2022-04-25",
+    "startDate": "2022-04-14",
+    "endDate": "2022-04-18",
+    "pollster": "University of New Hampshire",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/university-of-new-hampshire/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Ram Hinsdale",
+        "pct": "47.0",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Horne",
+        "pct": "26.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "Vermont",
+    "district": "1"
+  },
+  {
+    "id": "154870",
+    "subgroup": "All polls",
+    "sampleSize": "583",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://scholars.unh.edu/survey_center_polls/694/",
+    "created_at": "2022-04-25",
+    "startDate": "2022-04-14",
+    "endDate": "2022-04-18",
+    "pollster": "University of New Hampshire",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/university-of-new-hampshire/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Clifford",
+        "pct": "42.0",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Horne",
+        "pct": "25.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "Vermont",
+    "district": "1"
+  },
+  {
+    "id": "155155",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://www.politico.com/news/2022/05/02/poll-mayra-flores-texas-special-election-00029187",
+    "created_at": "2022-05-02",
+    "startDate": "2022-04-19",
+    "endDate": "2022-04-21",
+    "pollster": "Ragnar Research Partners",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/ragnar-research-partners/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Sanchez",
+        "pct": "19.0",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Flores",
+        "pct": "24.0",
+        "party": "Rep",
+        "incumbent": false
+      },
+      {
+        "choice": "Cantu-Cabrera",
+        "pct": "7.0",
+        "party": "Rep",
+        "incumbent": false
+      },
+      {
+        "choice": "Coronado",
+        "pct": "9.0",
+        "party": "Dem",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 34",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "NRCC",
+        "partisan": "Republican Party",
+        "internal": true,
+        "url": "https://www.nrcc.org/"
+      },
+      {
+        "sponsor": "Mayra Flores",
+        "partisan": "Republican Party",
+        "candidate": true
+      }
+    ],
+    "internal": true,
+    "inAvg": false,
+    "cycle": "2022",
+    "partisan": "REP",
+    "state": "Texas",
+    "district": "34"
+  },
+  {
+    "id": "155317",
+    "subgroup": "All polls",
+    "sampleSize": "600",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "https://drive.google.com/file/d/12X1euwQNS1yBRuuBAFQIw1jDPP5fsxVS/view",
+    "created_at": "2022-05-06",
+    "startDate": "2022-04-10",
+    "endDate": "2022-04-15",
+    "pollster": "Slingshot Strategies",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/slingshot-strategies/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Luria",
+        "pct": "38.0",
+        "party": "Dem",
+        "incumbent": true
+      },
+      {
+        "choice": "Bell",
+        "pct": "33.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 2",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "Virginia",
+    "district": "2"
+  },
+  {
+    "id": "155318",
+    "subgroup": "All polls",
+    "sampleSize": "600",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "https://drive.google.com/file/d/12X1euwQNS1yBRuuBAFQIw1jDPP5fsxVS/view",
+    "created_at": "2022-05-06",
+    "startDate": "2022-04-10",
+    "endDate": "2022-04-15",
+    "pollster": "Slingshot Strategies",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/slingshot-strategies/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Luria",
+        "pct": "39.0",
+        "party": "Dem",
+        "incumbent": true
+      },
+      {
+        "choice": "Kiggans",
+        "pct": "34.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 2",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "Virginia",
+    "district": "2"
+  },
+  {
+    "id": "155319",
+    "subgroup": "All polls",
+    "sampleSize": "600",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "https://drive.google.com/file/d/1j004nMFo5mt19jAoqY1s265Ibrv0wk9S/view",
+    "created_at": "2022-05-06",
+    "startDate": "2022-04-10",
+    "endDate": "2022-04-15",
+    "pollster": "Slingshot Strategies",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/slingshot-strategies/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Slotkin",
+        "pct": "40.0",
+        "party": "Dem",
+        "incumbent": true
+      },
+      {
+        "choice": "Barrett",
+        "pct": "34.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 7",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "Michigan",
+    "district": "7"
+  },
+  {
+    "id": "155322",
+    "subgroup": "All polls",
+    "sampleSize": "720",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://twitter.com/LorenCulp/status/1522353494308491265?s=20&t=bf67U68TaFCMc2IHHMJ66w",
+    "created_at": "2022-05-06",
+    "startDate": "2022-04-17",
+    "endDate": "2022-04-20",
+    "pollster": "Spry Strategies",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/spry-strategies/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Culp",
+        "pct": "38.0",
+        "party": "Rep",
+        "incumbent": false
+      },
+      {
+        "choice": "Newhouse",
+        "pct": "37.0",
+        "party": "Rep",
+        "incumbent": true
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 4",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "Loren Culp",
+        "partisan": "Republican Party",
+        "candidate": true
+      }
+    ],
+    "internal": true,
+    "inAvg": false,
+    "cycle": "2022",
+    "partisan": "REP",
+    "state": "Washington",
+    "district": "4"
+  },
+  {
+    "id": "155355",
+    "subgroup": "All polls",
+    "sampleSize": "605",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://twitter.com/IvanMoore1/status/1524148563093065728",
+    "created_at": "2022-05-10",
+    "startDate": "2022-05-06",
+    "endDate": "2022-05-09",
+    "pollster": "Alaska Survey Research",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/alaska-survey-research/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Palin",
+        "pct": "26.0",
+        "party": "Rep",
+        "incumbent": false
+      },
+      {
+        "choice": "Begich",
+        "pct": "28.0",
+        "party": "Rep",
+        "incumbent": false
+      },
+      {
+        "choice": "Gross",
+        "pct": "35.0",
+        "party": "Ind",
+        "incumbent": false
+      },
+      {
+        "choice": "Sweeney",
+        "pct": "11.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "Alaska",
+    "district": "1"
+  },
+  {
+    "id": "155356",
+    "subgroup": "All polls",
+    "sampleSize": "605",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://twitter.com/IvanMoore1/status/1524148563093065728",
+    "created_at": "2022-05-10",
+    "startDate": "2022-05-06",
+    "endDate": "2022-05-09",
+    "pollster": "Alaska Survey Research",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/alaska-survey-research/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Palin",
+        "pct": "29.0",
+        "party": "Rep",
+        "incumbent": false
+      },
+      {
+        "choice": "Begich",
+        "pct": "32.0",
+        "party": "Rep",
+        "incumbent": false
+      },
+      {
+        "choice": "Gross",
+        "pct": "39.0",
+        "party": "Ind",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "Alaska",
+    "district": "1"
+  },
+  {
+    "id": "155357",
+    "subgroup": "All polls",
+    "sampleSize": "605",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://twitter.com/IvanMoore1/status/1524148563093065728",
+    "created_at": "2022-05-10",
+    "startDate": "2022-05-06",
+    "endDate": "2022-05-09",
+    "pollster": "Alaska Survey Research",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/alaska-survey-research/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Begich",
+        "pct": "55.0",
+        "party": "Rep",
+        "incumbent": false
+      },
+      {
+        "choice": "Gross",
+        "pct": "45.0",
+        "party": "Ind",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "Alaska",
+    "district": "1"
+  },
+  {
+    "id": "155358",
+    "subgroup": "All polls",
+    "sampleSize": "605",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://twitter.com/IvanMoore1/status/1524148563093065728",
+    "created_at": "2022-05-10",
+    "startDate": "2022-05-06",
+    "endDate": "2022-05-09",
+    "pollster": "Alaska Survey Research",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/alaska-survey-research/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Palin",
+        "pct": "28.0",
+        "party": "Rep",
+        "incumbent": false
+      },
+      {
+        "choice": "Begich",
+        "pct": "29.0",
+        "party": "Rep",
+        "incumbent": false
+      },
+      {
+        "choice": "Gross",
+        "pct": "27.0",
+        "party": "Ind",
+        "incumbent": false
+      },
+      {
+        "choice": "Constant",
+        "pct": "17.0",
+        "party": "Dem",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "Alaska",
+    "district": "1"
+  },
+  {
+    "id": "155359",
+    "subgroup": "All polls",
+    "sampleSize": "605",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://twitter.com/IvanMoore1/status/1524148563093065728",
+    "created_at": "2022-05-10",
+    "startDate": "2022-05-06",
+    "endDate": "2022-05-09",
+    "pollster": "Alaska Survey Research",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/alaska-survey-research/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Palin",
+        "pct": "28.0",
+        "party": "Rep",
+        "incumbent": false
+      },
+      {
+        "choice": "Begich",
+        "pct": "32.0",
+        "party": "Rep",
+        "incumbent": false
+      },
+      {
+        "choice": "Gross",
+        "pct": "40.0",
+        "party": "Ind",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "Alaska",
+    "district": "1"
+  },
+  {
+    "id": "155360",
+    "subgroup": "All polls",
+    "sampleSize": "605",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://twitter.com/IvanMoore1/status/1524148563093065728",
+    "created_at": "2022-05-10",
+    "startDate": "2022-05-06",
+    "endDate": "2022-05-09",
+    "pollster": "Alaska Survey Research",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/alaska-survey-research/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Begich",
+        "pct": "54.0",
+        "party": "Rep",
+        "incumbent": false
+      },
+      {
+        "choice": "Gross",
+        "pct": "46.0",
+        "party": "Ind",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "Alaska",
+    "district": "1"
+  },
+  {
+    "id": "155361",
+    "subgroup": "All polls",
+    "sampleSize": "605",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://twitter.com/IvanMoore1/status/1524148563093065728",
+    "created_at": "2022-05-10",
+    "startDate": "2022-05-06",
+    "endDate": "2022-05-09",
+    "pollster": "Alaska Survey Research",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/alaska-survey-research/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Peltola",
+        "pct": "19.0",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Palin",
+        "pct": "26.0",
+        "party": "Rep",
+        "incumbent": false
+      },
+      {
+        "choice": "Begich",
+        "pct": "29.0",
+        "party": "Rep",
+        "incumbent": false
+      },
+      {
+        "choice": "Gross",
+        "pct": "27.0",
+        "party": "Ind",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "Alaska",
+    "district": "1"
+  },
+  {
+    "id": "155362",
+    "subgroup": "All polls",
+    "sampleSize": "605",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://twitter.com/IvanMoore1/status/1524148563093065728",
+    "created_at": "2022-05-10",
+    "startDate": "2022-05-06",
+    "endDate": "2022-05-09",
+    "pollster": "Alaska Survey Research",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/alaska-survey-research/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Palin",
+        "pct": "28.0",
+        "party": "Rep",
+        "incumbent": false
+      },
+      {
+        "choice": "Begich",
+        "pct": "33.0",
+        "party": "Rep",
+        "incumbent": false
+      },
+      {
+        "choice": "Gross",
+        "pct": "40.0",
+        "party": "Ind",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "Alaska",
+    "district": "1"
+  },
+  {
+    "id": "155363",
+    "subgroup": "All polls",
+    "sampleSize": "605",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://twitter.com/IvanMoore1/status/1524148563093065728",
+    "created_at": "2022-05-10",
+    "startDate": "2022-05-06",
+    "endDate": "2022-05-09",
+    "pollster": "Alaska Survey Research",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/alaska-survey-research/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Begich",
+        "pct": "54.0",
+        "party": "Rep",
+        "incumbent": false
+      },
+      {
+        "choice": "Gross",
+        "pct": "46.0",
+        "party": "Ind",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "Alaska",
+    "district": "1"
+  },
+  {
+    "id": "155364",
+    "subgroup": "All polls",
+    "sampleSize": "605",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://twitter.com/IvanMoore1/status/1524148563093065728",
+    "created_at": "2022-05-10",
+    "startDate": "2022-05-06",
+    "endDate": "2022-05-09",
+    "pollster": "Alaska Survey Research",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/alaska-survey-research/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Palin",
+        "pct": "25.0",
+        "party": "Rep",
+        "incumbent": false
+      },
+      {
+        "choice": "Begich",
+        "pct": "28.0",
+        "party": "Rep",
+        "incumbent": false
+      },
+      {
+        "choice": "Gross",
+        "pct": "26.0",
+        "party": "Ind",
+        "incumbent": false
+      },
+      {
+        "choice": "Claus",
+        "pct": "21.0",
+        "party": "Npa",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "Alaska",
+    "district": "1"
+  },
+  {
+    "id": "155365",
+    "subgroup": "All polls",
+    "sampleSize": "605",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://twitter.com/IvanMoore1/status/1524148563093065728",
+    "created_at": "2022-05-10",
+    "startDate": "2022-05-06",
+    "endDate": "2022-05-09",
+    "pollster": "Alaska Survey Research",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/alaska-survey-research/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Palin",
+        "pct": "28.0",
+        "party": "Rep",
+        "incumbent": false
+      },
+      {
+        "choice": "Begich",
+        "pct": "32.0",
+        "party": "Rep",
+        "incumbent": false
+      },
+      {
+        "choice": "Gross",
+        "pct": "40.0",
+        "party": "Ind",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "Alaska",
+    "district": "1"
+  },
+  {
+    "id": "155366",
+    "subgroup": "All polls",
+    "sampleSize": "605",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://twitter.com/IvanMoore1/status/1524148563093065728",
+    "created_at": "2022-05-10",
+    "startDate": "2022-05-06",
+    "endDate": "2022-05-09",
+    "pollster": "Alaska Survey Research",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/alaska-survey-research/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Begich",
+        "pct": "53.0",
+        "party": "Rep",
+        "incumbent": false
+      },
+      {
+        "choice": "Gross",
+        "pct": "47.0",
+        "party": "Ind",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "Alaska",
+    "district": "1"
+  },
+  {
+    "id": "155432",
+    "subgroup": "All polls",
+    "sampleSize": "564",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://314action.org/wp-content/uploads/2022/05/NE-2-314-Action-Toplines-May-6-10-2022.pdf",
+    "created_at": "2022-05-11",
+    "startDate": "2022-05-06",
+    "endDate": "2022-05-10",
+    "pollster": "Change Research",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/change-research/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Vargas",
+        "pct": "42.0",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Bacon",
+        "pct": "39.0",
+        "party": "Rep",
+        "incumbent": true
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 2",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "314 Action (hybrid PAC)",
+        "partisan": "Democratic Party",
+        "internal": false,
+        "url": "https://314action.org/"
+      }
+    ],
+    "internal": false,
+    "inAvg": true,
+    "cycle": "2022",
+    "partisan": "DEM",
+    "state": "Nebraska",
+    "district": "2"
+  },
+  {
+    "id": "155483",
+    "subgroup": "All polls",
+    "sampleSize": "350",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://floridapolitics.com/archives/524371-poll-shows-ken-russell-in-dead-heat-with-maria-elvira-salazar-for-cd-27-seat/",
+    "created_at": "2022-05-12",
+    "startDate": "2022-04-18",
+    "endDate": "2022-04-21",
+    "pollster": "The Kitchens Group",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/the-kitchens-group/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Russell",
+        "pct": "41.0",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Salazar",
+        "pct": "43.0",
+        "party": "Rep",
+        "incumbent": true
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 27",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "Ken Russell",
+        "partisan": "Democratic Party",
+        "candidate": true
+      }
+    ],
+    "internal": true,
+    "inAvg": false,
+    "cycle": "2022",
+    "partisan": "DEM,",
+    "state": "Florida",
+    "district": "27"
+  },
+  {
+    "id": "155495",
+    "subgroup": "All polls",
+    "sampleSize": "421",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://21701012.fs1.hubspotusercontent-na1.net/hubfs/21701012/Pan%20Atlantic%20Research%2058th%20Omnibus%20Poll%20Results.pdf",
+    "created_at": "2022-05-13",
+    "startDate": "2022-04-21",
+    "endDate": "2022-05-05",
+    "pollster": "Pan Atlantic Research",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/pan-atlantic-research/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Pingree",
+        "pct": "51.3",
+        "party": "Dem",
+        "incumbent": true
+      },
+      {
+        "choice": "Thelander",
+        "pct": "31.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "Maine",
+    "district": "1"
+  },
+  {
+    "id": "155496",
+    "subgroup": "All polls",
+    "sampleSize": "404",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://21701012.fs1.hubspotusercontent-na1.net/hubfs/21701012/Pan%20Atlantic%20Research%2058th%20Omnibus%20Poll%20Results.pdf",
+    "created_at": "2022-05-13",
+    "startDate": "2022-04-21",
+    "endDate": "2022-05-05",
+    "pollster": "Pan Atlantic Research",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/pan-atlantic-research/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Golden",
+        "pct": "45.3",
+        "party": "Dem",
+        "incumbent": true
+      },
+      {
+        "choice": "Poliquin",
+        "pct": "36.4",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 2",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "Maine",
+    "district": "2"
+  },
+  {
+    "id": "155896",
+    "subgroup": "All polls",
+    "sampleSize": "494",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://punchbowl.news/wp-content/uploads/PA-17-DCCC-Analytics-Memo-2022.05.06.pdf",
+    "created_at": "2022-05-26",
+    "startDate": "2022-05-09",
+    "endDate": "2022-05-10",
+    "pollster": "DCCC Targeting and Analytics Department",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/dccc-targeting-and-analytics-department/",
+    "partisan_pollster": "Democratic Party",
+    "answers": [
+      {
+        "choice": "Deluzio",
+        "pct": "44.0",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Shaffer",
+        "pct": "41.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 17",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "DCCC",
+        "partisan": "Democratic Party",
+        "internal": true,
+        "url": "https://dccc.org/"
+      }
+    ],
+    "internal": true,
+    "inAvg": false,
+    "cycle": "2022",
+    "partisan": "DEM",
+    "state": "Pennsylvania",
+    "district": "17"
+  },
+  {
+    "id": "155933",
+    "subgroup": "All polls",
+    "sampleSize": "801",
+    "population": "lv",
+    "grade": "B",
+    "url": "https://www.termlimits.com/library/CA-27%20Primary%20TABS%20042122.pdf",
+    "created_at": "2022-05-26",
+    "startDate": "2022-04-19",
+    "endDate": "2022-04-20",
+    "pollster": "Remington Research Group",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/remington-research-group/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Quartey",
+        "pct": "41.0",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Garcia",
+        "pct": "47.0",
+        "party": "Rep",
+        "incumbent": true
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 27",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "U.S. Term Limits",
+        "partisan": null,
+        "internal": false,
+        "url": "https://www.termlimits.com/"
+      }
+    ],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "California",
+    "district": "27"
+  },
+  {
+    "id": "155934",
+    "subgroup": "All polls",
+    "sampleSize": "801",
+    "population": "lv",
+    "grade": "B",
+    "url": "https://www.termlimits.com/library/CA-27%20Primary%20TABS%20042122.pdf",
+    "created_at": "2022-05-26",
+    "startDate": "2022-04-19",
+    "endDate": "2022-04-20",
+    "pollster": "Remington Research Group",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/remington-research-group/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Smith",
+        "pct": "45.0",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Garcia",
+        "pct": "47.0",
+        "party": "Rep",
+        "incumbent": true
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 27",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "U.S. Term Limits",
+        "partisan": null,
+        "internal": false,
+        "url": "https://www.termlimits.com/"
+      }
+    ],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "California",
+    "district": "27"
+  },
+  {
+    "id": "155968",
+    "subgroup": "All polls",
+    "sampleSize": "250",
+    "population": "lv",
+    "grade": "",
+    "url": "https://states.aarp.org/maine/me-poll-voters-2022",
+    "created_at": "2022-05-27",
+    "startDate": "2022-05-10",
+    "endDate": "2022-05-13",
+    "pollster": "Fabrizio, Lee & Associates/Impact Research",
+    "pollsterRatingLink": null,
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Pingree",
+        "pct": "57.0",
+        "party": "Dem",
+        "incumbent": true
+      },
+      {
+        "choice": "Thelander",
+        "pct": "33.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "AARP",
+        "partisan": null,
+        "internal": false,
+        "url": "https://www.aarp.org/"
+      }
+    ],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "Maine",
+    "district": "1"
+  },
+  {
+    "id": "155969",
+    "subgroup": "All polls",
+    "sampleSize": "250",
+    "population": "lv",
+    "grade": "",
+    "url": "https://states.aarp.org/maine/me-poll-voters-2022",
+    "created_at": "2022-05-27",
+    "startDate": "2022-05-10",
+    "endDate": "2022-05-13",
+    "pollster": "Fabrizio, Lee & Associates/Impact Research",
+    "pollsterRatingLink": null,
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Golden",
+        "pct": "50.0",
+        "party": "Dem",
+        "incumbent": true
+      },
+      {
+        "choice": "Poliquin",
+        "pct": "43.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 2",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "AARP",
+        "partisan": null,
+        "internal": false,
+        "url": "https://www.aarp.org/"
+      }
+    ],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "Maine",
+    "district": "2"
+  },
+  {
+    "id": "155973",
+    "subgroup": "All polls",
+    "sampleSize": "308",
+    "population": "lv",
+    "grade": "",
+    "url": "https://www.smokymountainnews.com/news/item/33688-first-poll-in-nc-11-predicts-tight-race-between-beach-ferrara-edwards",
+    "created_at": "2022-05-27",
+    "startDate": "2022-05-18",
+    "endDate": "2022-05-20",
+    "pollster": "Survey 160",
+    "pollsterRatingLink": null,
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Beach-Ferrara",
+        "pct": "40.0",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Edwards",
+        "pct": "46.0",
+        "party": "Rep",
+        "incumbent": false
+      },
+      {
+        "choice": "Coatney",
+        "pct": "6.0",
+        "party": "Lib",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 11",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "Jasmine Beach-Ferrara",
+        "partisan": "Democratic Party",
+        "candidate": true
+      }
+    ],
+    "internal": true,
+    "inAvg": false,
+    "cycle": "2022",
+    "partisan": "DEM",
+    "state": "North Carolina",
+    "district": "11"
+  },
+  {
+    "id": "156012",
+    "subgroup": "All polls",
+    "sampleSize": "676",
+    "population": "rv",
+    "grade": "A-",
+    "url": "https://twitter.com/ercovey/status/1531988539768020995?s=20&t=H4oNCIMx9Q_eufJ4G-d7Uw",
+    "created_at": "2022-06-01",
+    "startDate": "2022-05-25",
+    "endDate": "2022-05-26",
+    "pollster": "Public Policy Polling",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/public-policy-polling/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Scholten",
+        "pct": "39.0",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Meijer",
+        "pct": "37.0",
+        "party": "Rep",
+        "incumbent": true
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 3",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "Hillary Scholten",
+        "partisan": "Democratic Party",
+        "candidate": true
+      }
+    ],
+    "internal": true,
+    "inAvg": false,
+    "cycle": "2022",
+    "partisan": "DEM",
+    "state": "Michigan",
+    "district": "3"
+  },
+  {
+    "id": "156013",
+    "subgroup": "All polls",
+    "sampleSize": "676",
+    "population": "rv",
+    "grade": "A-",
+    "url": "https://twitter.com/ercovey/status/1531988539768020995?s=20&t=H4oNCIMx9Q_eufJ4G-d7Uw",
+    "created_at": "2022-06-01",
+    "startDate": "2022-05-25",
+    "endDate": "2022-05-26",
+    "pollster": "Public Policy Polling",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/public-policy-polling/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Scholten",
+        "pct": "44.0",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Gibbs",
+        "pct": "35.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 3",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "Hillary Scholten",
+        "partisan": "Democratic Party",
+        "candidate": true
+      }
+    ],
+    "internal": true,
+    "inAvg": false,
+    "cycle": "2022",
+    "partisan": "DEM",
+    "state": "Michigan",
+    "district": "3"
+  },
+  {
+    "id": "156035",
+    "subgroup": "All polls",
+    "sampleSize": "450",
+    "population": "lv",
+    "grade": "B+",
+    "url": "https://alphanews.org/wp-content/uploads/2022/05/19379-Kistner-MN02-Memo.pdf",
+    "created_at": "2022-06-01",
+    "startDate": "2022-05-14",
+    "endDate": "2022-05-15",
+    "pollster": "Cygnal",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/cygnal/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Craig",
+        "pct": "42.9",
+        "party": "Dem",
+        "incumbent": true
+      },
+      {
+        "choice": "Kistner",
+        "pct": "38.2",
+        "party": "Rep",
+        "incumbent": false
+      },
+      {
+        "choice": "Overby",
+        "pct": "4.4",
+        "party": "Oth",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 2",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "Tyler Kistner",
+        "partisan": "Republican Party",
+        "candidate": true
+      }
+    ],
+    "internal": true,
+    "inAvg": false,
+    "cycle": "2022",
+    "partisan": "REP",
+    "state": "Minnesota",
+    "district": "2"
+  },
+  {
+    "id": "156174",
+    "subgroup": "All polls",
+    "sampleSize": "429",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://dccc.org/poll-wiley-nickel-leads-bo-hines-by-2-points-in-nc-13/",
+    "created_at": "2022-06-06",
+    "startDate": "2022-05-18",
+    "endDate": "2022-05-19",
+    "pollster": "DCCC Targeting and Analytics Department",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/dccc-targeting-and-analytics-department/",
+    "partisan_pollster": "Democratic Party",
+    "answers": [
+      {
+        "choice": "Nickel",
+        "pct": "45.0",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Hines",
+        "pct": "43.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 13",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "DCCC",
+        "partisan": "Democratic Party",
+        "internal": true,
+        "url": "https://dccc.org/"
+      }
+    ],
+    "internal": true,
+    "inAvg": false,
+    "cycle": "2022",
+    "partisan": "DEM",
+    "state": "North Carolina",
+    "district": "13"
+  },
+  {
+    "id": "156175",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "lv",
+    "grade": "B+",
+    "url": "https://www.macombdaily.com/2022/06/05/poll-marlinga-holds-big-lead-for-primary-narrow-margin-over-john-james/",
+    "created_at": "2022-06-06",
+    "startDate": "2022-04-24",
+    "endDate": "2022-04-26",
+    "pollster": "Tarrance Group",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/tarrance-group/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Marlinga",
+        "pct": "41.0",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "James",
+        "pct": "47.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 10",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "John James",
+        "partisan": "Republican Party",
+        "candidate": true
+      }
+    ],
+    "internal": true,
+    "inAvg": false,
+    "cycle": "2022",
+    "partisan": "REP",
+    "state": "Michigan",
+    "district": "10"
+  },
+  {
+    "id": "156180",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "lv",
+    "grade": "C/D",
+    "url": "https://www.macombdaily.com/2022/06/05/poll-marlinga-holds-big-lead-for-primary-narrow-margin-over-john-james/",
+    "created_at": "2022-06-07",
+    "startDate": "2022-05-24",
+    "endDate": "2022-05-27",
+    "pollster": "Target Insyght",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/target-insyght/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Marlinga",
+        "pct": "44.0",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "James",
+        "pct": "40.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 10",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "Carl J. Marlinga",
+        "partisan": "Democratic Party",
+        "candidate": true
+      }
+    ],
+    "internal": true,
+    "inAvg": false,
+    "cycle": "2022",
+    "partisan": "DEM",
+    "state": "Michigan",
+    "district": "10"
+  },
+  {
+    "id": "156241",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "lv",
+    "grade": "A-",
+    "url": "https://www.scribd.com/document/577427887/Key-Findings-Survey-in-Washington-CD-8",
+    "created_at": "2022-06-08",
+    "startDate": "2022-05-02",
+    "endDate": "2022-05-05",
+    "pollster": "NMB Research",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/public-opinion-strategies/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Schrier",
+        "pct": "48.0",
+        "party": "Dem",
+        "incumbent": true
+      },
+      {
+        "choice": "Jensen",
+        "pct": "42.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 8",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "Lead the Way PAC (super PAC)",
+        "partisan": "Republican Party",
+        "internal": false,
+        "url": "https://www.leadthewaypac.com/"
+      }
+    ],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "partisan": "REP",
+    "state": "Washington",
+    "district": "8"
+  },
+  {
+    "id": "156242",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "lv",
+    "grade": "A-",
+    "url": "https://www.scribd.com/document/577427887/Key-Findings-Survey-in-Washington-CD-8",
+    "created_at": "2022-06-08",
+    "startDate": "2022-05-02",
+    "endDate": "2022-05-05",
+    "pollster": "NMB Research",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/public-opinion-strategies/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Schrier",
+        "pct": "48.0",
+        "party": "Dem",
+        "incumbent": true
+      },
+      {
+        "choice": "Dunn",
+        "pct": "42.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 8",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "Lead the Way PAC (super PAC)",
+        "partisan": "Republican Party",
+        "internal": false,
+        "url": "https://www.leadthewaypac.com/"
+      }
+    ],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "partisan": "REP",
+    "state": "Washington",
+    "district": "8"
+  },
+  {
+    "id": "156264",
+    "subgroup": "All polls",
+    "sampleSize": "300",
+    "population": "lv",
+    "grade": "C/D",
+    "url": "https://jewishinsider.nyc3.digitaloceanspaces.com/wp-content/uploads/2022/05/09212344/DEsposito-Poll-With-Watermark.pdf",
+    "created_at": "2022-06-08",
+    "startDate": "2022-03-03",
+    "endDate": "2022-03-06",
+    "pollster": "McLaughlin & Associates",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/mclaughlin-associates/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Gillen",
+        "pct": "36.0",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "D'Esposito",
+        "pct": "48.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 4",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "Anthony D'Esposito",
+        "partisan": "Republican Party",
+        "candidate": true
+      }
+    ],
+    "internal": true,
+    "inAvg": false,
+    "cycle": "2022",
+    "partisan": "REP",
+    "state": "New York",
+    "district": "4"
+  },
+  {
+    "id": "156415",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://drive.google.com/file/d/1IyWPuBovYuLr-3igGgdEdW8ugG8fBhqr/view",
+    "created_at": "2022-06-10",
+    "startDate": "2022-05-09",
+    "endDate": "2022-05-15",
+    "pollster": "Impact Research",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/alg-research/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Landsman",
+        "pct": "47.0",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Chabot",
+        "pct": "47.0",
+        "party": "Rep",
+        "incumbent": true
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "Greg Landsman",
+        "partisan": "Democratic Party",
+        "candidate": true
+      }
+    ],
+    "internal": true,
+    "inAvg": false,
+    "cycle": "2022",
+    "partisan": "DEM",
+    "state": "Ohio",
+    "district": "1"
+  },
+  {
+    "id": "156451",
+    "subgroup": "All polls",
+    "sampleSize": "484",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://www.dropbox.com/s/5u8kf9ryfiwrb7i/RRH%20Elections%20TX-34%20Poll%20Release.pdf?dl=0",
+    "created_at": "2022-06-13",
+    "startDate": "2022-06-08",
+    "endDate": "2022-06-11",
+    "pollster": "RRH Elections",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/rrh-elections/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Sanchez",
+        "pct": "34.0",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Flores",
+        "pct": "43.0",
+        "party": "Rep",
+        "incumbent": false
+      },
+      {
+        "choice": "Coronado",
+        "pct": "7.0",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Cantu-Cabrera",
+        "pct": "3.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 34",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "Poll Project USA",
+        "partisan": null,
+        "internal": false,
+        "url": "https://pollprojectusa.com/"
+      }
+    ],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "Texas",
+    "district": "34"
+  },
+  {
+    "id": "156766",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "lv",
+    "grade": "B",
+    "url": "https://drive.google.com/file/d/1jSv88lrsW751_6FpV7LdA0KJRVuwE35K/view",
+    "created_at": "2022-06-20",
+    "startDate": "2022-05-23",
+    "endDate": "2022-05-31",
+    "pollster": "GQR Research",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/gqr-research-gqrr/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Sykes",
+        "pct": "47.0",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Gilbert",
+        "pct": "45.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 13",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "Emilia Sykes",
+        "partisan": "Democratic Party",
+        "candidate": true
+      }
+    ],
+    "internal": true,
+    "inAvg": false,
+    "cycle": "2022",
+    "partisan": "DEM",
+    "state": "Ohio",
+    "district": "13"
+  },
+  {
+    "id": "156817",
+    "subgroup": "All polls",
+    "sampleSize": "505",
+    "population": "v",
+    "grade": "C/D",
+    "url": "https://nypost.com/2022/06/21/marc-molinaro-leads-race-for-antonio-delgados-house-seat/?utm_campaign=SocialFlow&utm_source=NYPMetroTwitter&utm_medium=SocialFlow",
+    "created_at": "2022-06-21",
+    "startDate": "2022-06-16",
+    "endDate": "2022-06-20",
+    "pollster": "Triton Polling & Research",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/triton-polling-research/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Ryan",
+        "pct": "38.4",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Molinaro",
+        "pct": "51.6",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 19",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "Freedom Council",
+        "partisan": "Republican Party",
+        "internal": false,
+        "url": "https://www.freedomcouncilusa.com/"
+      }
+    ],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "partisan": "REP",
+    "state": "New York",
+    "district": "19"
+  },
+  {
+    "id": "156963",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "https://floridapolitics.com/archives/533842-internal-poll-shows-democrat-eric-lynn-with-path-to-victory-over-anna-paulina-luna/",
+    "created_at": "2022-06-22",
+    "startDate": "2022-06-06",
+    "endDate": "2022-06-09",
+    "pollster": "Global Strategy Group",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/global-strategy-group/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Lynn",
+        "pct": "36.0",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Paulina Luna",
+        "pct": "45.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 13",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "Eric Lynn",
+        "partisan": "Democratic Party",
+        "candidate": true
+      }
+    ],
+    "internal": true,
+    "inAvg": false,
+    "cycle": "2022",
+    "partisan": "DEM",
+    "state": "Florida",
+    "district": "13"
+  },
+  {
+    "id": "156964",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "https://floridapolitics.com/archives/533842-internal-poll-shows-democrat-eric-lynn-with-path-to-victory-over-anna-paulina-luna/",
+    "created_at": "2022-06-22",
+    "startDate": "2022-06-06",
+    "endDate": "2022-06-09",
+    "pollster": "Global Strategy Group",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/global-strategy-group/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Lynn",
+        "pct": "41.0",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Makki",
+        "pct": "46.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 13",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "Eric Lynn",
+        "partisan": "Democratic Party",
+        "candidate": true
+      }
+    ],
+    "internal": true,
+    "inAvg": false,
+    "cycle": "2022",
+    "partisan": "DEM",
+    "state": "Florida",
+    "district": "13"
+  },
+  {
+    "id": "156965",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "https://floridapolitics.com/archives/533842-internal-poll-shows-democrat-eric-lynn-with-path-to-victory-over-anna-paulina-luna/",
+    "created_at": "2022-06-22",
+    "startDate": "2022-06-06",
+    "endDate": "2022-06-09",
+    "pollster": "Global Strategy Group",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/global-strategy-group/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Lynn",
+        "pct": "36.0",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Hayslett",
+        "pct": "39.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 13",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "Eric Lynn",
+        "partisan": "Democratic Party",
+        "candidate": true
+      }
+    ],
+    "internal": true,
+    "inAvg": false,
+    "cycle": "2022",
+    "partisan": "DEM",
+    "state": "Florida",
+    "district": "13"
+  },
+  {
+    "id": "157023",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "lv",
+    "grade": "B+",
+    "url": "https://www.politico.com/news/2022/06/24/gop-poll-michigan-2022-election-00042106",
+    "created_at": "2022-06-24",
+    "startDate": "2022-06-14",
+    "endDate": "2022-06-16",
+    "pollster": "Cygnal",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/cygnal/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Slotkin",
+        "pct": "43.6",
+        "party": "Dem",
+        "incumbent": true
+      },
+      {
+        "choice": "Barrett",
+        "pct": "46.1",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 7",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "NRCC",
+        "partisan": "Republican Party",
+        "internal": true,
+        "url": "https://www.nrcc.org/"
+      },
+      {
+        "sponsor": "Tom Barrett",
+        "partisan": "Republican Party",
+        "candidate": true
+      }
+    ],
+    "internal": true,
+    "inAvg": false,
+    "cycle": "2022",
+    "partisan": "REP",
+    "state": "Michigan",
+    "district": "7"
+  },
+  {
+    "id": "157112",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "lv",
+    "grade": "",
+    "url": "https://www.scribd.com/document/579258412/MN-01-Poll-Results-Memo-Ettinger-Campaign",
+    "created_at": "2022-06-25",
+    "startDate": "2022-06-06",
+    "endDate": "2022-06-09",
+    "pollster": "Expedition Strategies",
+    "pollsterRatingLink": null,
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Ettinger",
+        "pct": "47.0",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Finstad",
+        "pct": "48.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "Jeff Ettinger",
+        "partisan": "Democratic Party",
+        "candidate": true
+      }
+    ],
+    "internal": true,
+    "inAvg": false,
+    "cycle": "2022",
+    "partisan": "DEM",
+    "state": "Minnesota",
+    "district": "1"
+  },
+  {
+    "id": "157113",
+    "subgroup": "All polls",
+    "sampleSize": "602",
+    "population": "v",
+    "grade": "A-",
+    "url": "https://drive.google.com/file/d/1JaxD7vclE2KZDhJK0nTISSd_DTbzYq1b/view",
+    "created_at": "2022-06-25",
+    "startDate": "2022-06-01",
+    "endDate": "2022-06-02",
+    "pollster": "Public Policy Polling",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/public-policy-polling/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "McGrath",
+        "pct": "38.0",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Van Orden",
+        "pct": "47.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 3",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "Deb Baldus McGrath",
+        "partisan": "Democratic Party",
+        "candidate": true
+      }
+    ],
+    "internal": true,
+    "inAvg": false,
+    "cycle": "2022",
+    "partisan": "DEM",
+    "state": "Wisconsin",
+    "district": "3"
+  },
+  {
+    "id": "157164",
+    "subgroup": "All polls",
+    "sampleSize": "626",
+    "population": "lv",
+    "grade": "A-",
+    "url": "https://globalstrategygroup.app.box.com/s/c09el5xd7keg1o16igpeaxlrfw5xagxa",
+    "created_at": "2022-06-27",
+    "startDate": "2022-06-24",
+    "endDate": "2022-06-25",
+    "pollster": "Public Policy Polling",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/public-policy-polling/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Ehasz",
+        "pct": "38.0",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Fitzpatrick",
+        "pct": "45.0",
+        "party": "Rep",
+        "incumbent": true
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "Ashley Ehasz",
+        "partisan": "Democratic Party",
+        "candidate": true
+      }
+    ],
+    "internal": true,
+    "inAvg": false,
+    "cycle": "2022",
+    "partisan": "DEM",
+    "state": "Pennsylvania",
+    "district": "1"
+  },
+  {
+    "id": "157166",
+    "subgroup": "All polls",
+    "sampleSize": "423",
+    "population": "lv",
+    "grade": "B+",
+    "url": "https://www.suffolk.edu/-/media/suffolk/documents/academics/research-at-suffolk/suprc/polls/other-states/2022/6_27_2022_marginals.pdf?la=en&hash=C497BD430D94592B19F97ABDE40692E9952C05ED",
+    "created_at": "2022-06-27",
+    "startDate": "2022-06-19",
+    "endDate": "2022-06-22",
+    "pollster": "Suffolk University",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/suffolk-university/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Bah",
+        "pct": "33.81",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Fung",
+        "pct": "44.21",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 2",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "The Boston Globe",
+        "partisan": null,
+        "internal": false,
+        "url": "https://www.bostonglobe.com/"
+      }
+    ],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "Rhode Island",
+    "district": "2"
+  },
+  {
+    "id": "157167",
+    "subgroup": "All polls",
+    "sampleSize": "423",
+    "population": "lv",
+    "grade": "B+",
+    "url": "https://www.suffolk.edu/-/media/suffolk/documents/academics/research-at-suffolk/suprc/polls/other-states/2022/6_27_2022_marginals.pdf?la=en&hash=C497BD430D94592B19F97ABDE40692E9952C05ED",
+    "created_at": "2022-06-27",
+    "startDate": "2022-06-19",
+    "endDate": "2022-06-22",
+    "pollster": "Suffolk University",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/suffolk-university/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Fox",
+        "pct": "34.04",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Fung",
+        "pct": "44.68",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 2",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "The Boston Globe",
+        "partisan": null,
+        "internal": false,
+        "url": "https://www.bostonglobe.com/"
+      }
+    ],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "Rhode Island",
+    "district": "2"
+  },
+  {
+    "id": "157168",
+    "subgroup": "All polls",
+    "sampleSize": "423",
+    "population": "lv",
+    "grade": "B+",
+    "url": "https://www.suffolk.edu/-/media/suffolk/documents/academics/research-at-suffolk/suprc/polls/other-states/2022/6_27_2022_marginals.pdf?la=en&hash=C497BD430D94592B19F97ABDE40692E9952C05ED",
+    "created_at": "2022-06-27",
+    "startDate": "2022-06-19",
+    "endDate": "2022-06-22",
+    "pollster": "Suffolk University",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/suffolk-university/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Magaziner",
+        "pct": "38.53",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Fung",
+        "pct": "44.92",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 2",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "The Boston Globe",
+        "partisan": null,
+        "internal": false,
+        "url": "https://www.bostonglobe.com/"
+      }
+    ],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "Rhode Island",
+    "district": "2"
+  },
+  {
+    "id": "157169",
+    "subgroup": "All polls",
+    "sampleSize": "423",
+    "population": "lv",
+    "grade": "B+",
+    "url": "https://www.suffolk.edu/-/media/suffolk/documents/academics/research-at-suffolk/suprc/polls/other-states/2022/6_27_2022_marginals.pdf?la=en&hash=C497BD430D94592B19F97ABDE40692E9952C05ED",
+    "created_at": "2022-06-27",
+    "startDate": "2022-06-19",
+    "endDate": "2022-06-22",
+    "pollster": "Suffolk University",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/suffolk-university/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Moquin",
+        "pct": "32.15",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Fung",
+        "pct": "45.86",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 2",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "The Boston Globe",
+        "partisan": null,
+        "internal": false,
+        "url": "https://www.bostonglobe.com/"
+      }
+    ],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "Rhode Island",
+    "district": "2"
+  },
+  {
+    "id": "157170",
+    "subgroup": "All polls",
+    "sampleSize": "423",
+    "population": "lv",
+    "grade": "B+",
+    "url": "https://www.suffolk.edu/-/media/suffolk/documents/academics/research-at-suffolk/suprc/polls/other-states/2022/6_27_2022_marginals.pdf?la=en&hash=C497BD430D94592B19F97ABDE40692E9952C05ED",
+    "created_at": "2022-06-27",
+    "startDate": "2022-06-19",
+    "endDate": "2022-06-22",
+    "pollster": "Suffolk University",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/suffolk-university/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Morgenthau",
+        "pct": "34.52",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Fung",
+        "pct": "43.26",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 2",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "The Boston Globe",
+        "partisan": null,
+        "internal": false,
+        "url": "https://www.bostonglobe.com/"
+      }
+    ],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "Rhode Island",
+    "district": "2"
+  },
+  {
+    "id": "157171",
+    "subgroup": "All polls",
+    "sampleSize": "423",
+    "population": "lv",
+    "grade": "B+",
+    "url": "https://www.suffolk.edu/-/media/suffolk/documents/academics/research-at-suffolk/suprc/polls/other-states/2022/6_27_2022_marginals.pdf?la=en&hash=C497BD430D94592B19F97ABDE40692E9952C05ED",
+    "created_at": "2022-06-27",
+    "startDate": "2022-06-19",
+    "endDate": "2022-06-22",
+    "pollster": "Suffolk University",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/suffolk-university/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Segal",
+        "pct": "34.52",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Fung",
+        "pct": "44.68",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 2",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "The Boston Globe",
+        "partisan": null,
+        "internal": false,
+        "url": "https://www.bostonglobe.com/"
+      }
+    ],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "Rhode Island",
+    "district": "2"
+  },
+  {
+    "id": "157272",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "lv",
+    "grade": "",
+    "url": "https://sachsmedia.com/cd2-poll-previews-competitive-showdown-between-incumbent-congressmen/",
+    "created_at": "2022-06-28",
+    "startDate": "2022-06-20",
+    "endDate": "2022-06-23",
+    "pollster": "Sachs Media",
+    "pollsterRatingLink": null,
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Lawson",
+        "pct": "40.0",
+        "party": "Dem",
+        "incumbent": true
+      },
+      {
+        "choice": "Dunn",
+        "pct": "43.0",
+        "party": "Rep",
+        "incumbent": true
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 2",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "Florida",
+    "district": "2"
+  },
+  {
+    "id": "157449",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "lv",
+    "grade": "B+",
+    "url": "https://www.washingtonexaminer.com/news/campaigns/nevada-house-race-poll-reveals-campaign-challenges-for-democrats-in-november",
+    "created_at": "2022-06-28",
+    "startDate": "2022-06-20",
+    "endDate": "2022-06-23",
+    "pollster": "Tarrance Group",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/tarrance-group/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Lee",
+        "pct": "44.0",
+        "party": "Dem",
+        "incumbent": true
+      },
+      {
+        "choice": "Becker",
+        "pct": "46.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 3",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "NRCC",
+        "partisan": "Republican Party",
+        "internal": true,
+        "url": "https://www.nrcc.org/"
+      },
+      {
+        "sponsor": "April Becker",
+        "partisan": "Republican Party",
+        "candidate": true
+      }
+    ],
+    "internal": true,
+    "inAvg": false,
+    "cycle": "2022",
+    "partisan": "REP",
+    "state": "Nevada",
+    "district": "3"
+  },
+  {
+    "id": "157555",
+    "subgroup": "All polls",
+    "sampleSize": "572",
+    "population": "v",
+    "grade": "A-",
+    "url": "https://drive.google.com/file/d/1sBzUQED4fJLh5OxmGvlpa2bsGfQ0Xtx5/view",
+    "created_at": "2022-06-29",
+    "startDate": "2022-06-01",
+    "endDate": "2022-06-02",
+    "pollster": "Public Policy Polling",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/public-policy-polling/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "McLeod-Skinner",
+        "pct": "41.0",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Chavez-DeRemer",
+        "pct": "42.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 5",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "314 Action (hybrid PAC)",
+        "partisan": "Democratic Party",
+        "internal": false,
+        "url": "https://314action.org/"
+      }
+    ],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "partisan": "DEM",
+    "state": "Oregon",
+    "district": "5"
+  },
+  {
+    "id": "157625",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "https://www.cbsnews.com/miami/news/taddeo-poll-claims-dead-heat-with-salazar/",
+    "created_at": "2022-07-05",
+    "startDate": "2022-05-23",
+    "endDate": "2022-05-26",
+    "pollster": "SEA Polling and Strategic Design",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/sea-polling-strategic-design/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Taddeo",
+        "pct": "45.0",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Salazar",
+        "pct": "47.0",
+        "party": "Rep",
+        "incumbent": true
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 27",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "Annette Taddeo",
+        "partisan": "Democratic Party",
+        "candidate": true
+      }
+    ],
+    "internal": true,
+    "inAvg": false,
+    "cycle": "2022",
+    "partisan": "DEM,",
+    "state": "Florida",
+    "district": "27"
+  },
+  {
+    "id": "157712",
+    "subgroup": "All polls",
+    "sampleSize": "1254",
+    "population": "lv",
+    "grade": "",
+    "url": "https://ktr.agency/news-blog/close-race-oh-9",
+    "created_at": "2022-07-06",
+    "startDate": "2022-06-28",
+    "endDate": "2022-06-30",
+    "pollster": "Info Strategy Northeast",
+    "pollsterRatingLink": null,
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Kaptur",
+        "pct": "47.0",
+        "party": "Dem",
+        "incumbent": true
+      },
+      {
+        "choice": "Majewski",
+        "pct": "41.8",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 9",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "Knight Takes Rook",
+        "partisan": "Republican Party",
+        "internal": false,
+        "url": "https://ktr.agency/"
+      }
+    ],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "partisan": "REP,",
+    "state": "Ohio",
+    "district": "9"
+  },
+  {
+    "id": "157713",
+    "subgroup": "All polls",
+    "sampleSize": "581",
+    "population": "lv",
+    "grade": "A-",
+    "url": "https://drive.google.com/file/d/1SR1UC8O2khXmt2iFeEWNFpzeMWWeRxxj/view",
+    "created_at": "2022-07-06",
+    "startDate": "2022-06-29",
+    "endDate": "2022-06-30",
+    "pollster": "Public Policy Polling",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/public-policy-polling/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Ryan",
+        "pct": "40.0",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Molinaro",
+        "pct": "43.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 19",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "Pat Ryan",
+        "partisan": "Democratic Party",
+        "candidate": true
+      }
+    ],
+    "internal": true,
+    "inAvg": false,
+    "cycle": "2022",
+    "partisan": "DEM",
+    "state": "New York",
+    "district": "19"
+  },
+  {
+    "id": "157750",
+    "subgroup": "All polls",
+    "sampleSize": "1201",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://projects.fivethirtyeight.com/polls/stw221frq.pdf",
+    "created_at": "2022-07-07",
+    "startDate": "2022-07-02",
+    "endDate": "2022-07-05",
+    "pollster": "Alaska Survey Research",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/alaska-survey-research/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Peltola",
+        "pct": "40.0",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Begich",
+        "pct": "31.0",
+        "party": "Rep",
+        "incumbent": false
+      },
+      {
+        "choice": "Palin",
+        "pct": "29.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "Alaska",
+    "district": "1"
+  },
+  {
+    "id": "157751",
+    "subgroup": "All polls",
+    "sampleSize": "1201",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://projects.fivethirtyeight.com/polls/stw221frq.pdf",
+    "created_at": "2022-07-07",
+    "startDate": "2022-07-02",
+    "endDate": "2022-07-05",
+    "pollster": "Alaska Survey Research",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/alaska-survey-research/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Peltola",
+        "pct": "43.0",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Begich",
+        "pct": "57.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "Alaska",
+    "district": "1"
+  },
+  {
+    "id": "157753",
+    "subgroup": "All polls",
+    "sampleSize": "1201",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://projects.fivethirtyeight.com/polls/stw221frq.pdf",
+    "created_at": "2022-07-07",
+    "startDate": "2022-07-02",
+    "endDate": "2022-07-05",
+    "pollster": "Alaska Survey Research",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/alaska-survey-research/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Peltola",
+        "pct": "40.6",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Begich",
+        "pct": "30.6",
+        "party": "Rep",
+        "incumbent": false
+      },
+      {
+        "choice": "Palin",
+        "pct": "28.8",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "Alaska",
+    "district": "1"
+  },
+  {
+    "id": "157754",
+    "subgroup": "All polls",
+    "sampleSize": "1201",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://projects.fivethirtyeight.com/polls/stw221frq.pdf",
+    "created_at": "2022-07-07",
+    "startDate": "2022-07-02",
+    "endDate": "2022-07-05",
+    "pollster": "Alaska Survey Research",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/alaska-survey-research/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Peltola",
+        "pct": "44.0",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Begich",
+        "pct": "56.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "Alaska",
+    "district": "1"
+  },
+  {
+    "id": "157755",
+    "subgroup": "All polls",
+    "sampleSize": "1201",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://projects.fivethirtyeight.com/polls/stw221frq.pdf",
+    "created_at": "2022-07-07",
+    "startDate": "2022-07-02",
+    "endDate": "2022-07-05",
+    "pollster": "Alaska Survey Research",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/alaska-survey-research/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Peltola",
+        "pct": "37.5",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Begich",
+        "pct": "27.2",
+        "party": "Rep",
+        "incumbent": false
+      },
+      {
+        "choice": "Palin",
+        "pct": "26.9",
+        "party": "Rep",
+        "incumbent": false
+      },
+      {
+        "choice": "Sweeney",
+        "pct": "8.4",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "Alaska",
+    "district": "1"
+  },
+  {
+    "id": "157790",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://nypost.com/2022/07/07/nicole-malliotakis-leads-max-rose-by-15-points-in-ny-congress-race/",
+    "created_at": "2022-07-11",
+    "startDate": "2022-06-23",
+    "endDate": "2022-06-26",
+    "pollster": "1892 Polling",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/1892-polling/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Rose",
+        "pct": "36.0",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Malliotakis",
+        "pct": "51.0",
+        "party": "Rep",
+        "incumbent": true
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 11",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "NRCC",
+        "partisan": "Republican Party",
+        "internal": true,
+        "url": "https://www.nrcc.org/"
+      },
+      {
+        "sponsor": "Nicole Malliotakis",
+        "partisan": "Republican Party",
+        "candidate": true
+      }
+    ],
+    "internal": true,
+    "inAvg": false,
+    "cycle": "2022",
+    "partisan": "REP",
+    "state": "New York",
+    "district": "11"
+  },
+  {
+    "id": "157804",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://twitter.com/ercovey/status/1546481932590108672",
+    "created_at": "2022-07-11",
+    "startDate": "2022-06-27",
+    "endDate": "2022-06-30",
+    "pollster": "GBAO",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/gbao/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Vargas",
+        "pct": "48.0",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Bacon",
+        "pct": "47.0",
+        "party": "Rep",
+        "incumbent": true
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 2",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "Tony Vargas",
+        "partisan": "Democratic Party",
+        "candidate": true
+      }
+    ],
+    "internal": true,
+    "inAvg": true,
+    "cycle": "2022",
+    "partisan": "DEM",
+    "state": "Nebraska",
+    "district": "2"
+  },
+  {
+    "id": "157982",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "rv",
+    "grade": "A-",
+    "url": "https://emersoncollegepolling.com/nevada-2022-senator-cortez-masto-and-governor-sisolak-lead-competitive-general-election-matchups-33-of-voters-approve-of-biden%EF%BF%BC/",
+    "created_at": "2022-07-14",
+    "startDate": "2022-07-07",
+    "endDate": "2022-07-10",
+    "pollster": "Emerson College",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/emerson-college/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Titus",
+        "pct": "41.1",
+        "party": "Dem",
+        "incumbent": true
+      },
+      {
+        "choice": "Robertson",
+        "pct": "36.7",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "KLAS-TV (Las Vegas)",
+        "partisan": null,
+        "internal": false,
+        "url": "https://www.8newsnow.com/"
+      },
+      {
+        "sponsor": "The Hill",
+        "partisan": null,
+        "internal": false,
+        "url": "https://thehill.com/"
+      }
+    ],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "Nevada",
+    "district": "1"
+  },
+  {
+    "id": "157983",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "rv",
+    "grade": "A-",
+    "url": "https://emersoncollegepolling.com/nevada-2022-senator-cortez-masto-and-governor-sisolak-lead-competitive-general-election-matchups-33-of-voters-approve-of-biden%EF%BF%BC/",
+    "created_at": "2022-07-14",
+    "startDate": "2022-07-07",
+    "endDate": "2022-07-10",
+    "pollster": "Emerson College",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/emerson-college/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Krause",
+        "pct": "35.9",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Amodei",
+        "pct": "46.4",
+        "party": "Rep",
+        "incumbent": true
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 2",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "KLAS-TV (Las Vegas)",
+        "partisan": null,
+        "internal": false,
+        "url": "https://www.8newsnow.com/"
+      },
+      {
+        "sponsor": "The Hill",
+        "partisan": null,
+        "internal": false,
+        "url": "https://thehill.com/"
+      }
+    ],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "Nevada",
+    "district": "2"
+  },
+  {
+    "id": "157984",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "rv",
+    "grade": "A-",
+    "url": "https://emersoncollegepolling.com/nevada-2022-senator-cortez-masto-and-governor-sisolak-lead-competitive-general-election-matchups-33-of-voters-approve-of-biden%EF%BF%BC/",
+    "created_at": "2022-07-14",
+    "startDate": "2022-07-07",
+    "endDate": "2022-07-10",
+    "pollster": "Emerson College",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/emerson-college/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Lee",
+        "pct": "41.8",
+        "party": "Dem",
+        "incumbent": true
+      },
+      {
+        "choice": "Becker",
+        "pct": "39.7",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 3",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "KLAS-TV (Las Vegas)",
+        "partisan": null,
+        "internal": false,
+        "url": "https://www.8newsnow.com/"
+      },
+      {
+        "sponsor": "The Hill",
+        "partisan": null,
+        "internal": false,
+        "url": "https://thehill.com/"
+      }
+    ],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "Nevada",
+    "district": "3"
+  },
+  {
+    "id": "157985",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "rv",
+    "grade": "A-",
+    "url": "https://emersoncollegepolling.com/nevada-2022-senator-cortez-masto-and-governor-sisolak-lead-competitive-general-election-matchups-33-of-voters-approve-of-biden%EF%BF%BC/",
+    "created_at": "2022-07-14",
+    "startDate": "2022-07-07",
+    "endDate": "2022-07-10",
+    "pollster": "Emerson College",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/emerson-college/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Horsford",
+        "pct": "41.7",
+        "party": "Dem",
+        "incumbent": true
+      },
+      {
+        "choice": "Peters",
+        "pct": "38.7",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 4",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "KLAS-TV (Las Vegas)",
+        "partisan": null,
+        "internal": false,
+        "url": "https://www.8newsnow.com/"
+      },
+      {
+        "sponsor": "The Hill",
+        "partisan": null,
+        "internal": false,
+        "url": "https://thehill.com/"
+      }
+    ],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "Nevada",
+    "district": "4"
+  },
+  {
+    "id": "158151",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "lv",
+    "grade": "A-",
+    "url": "https://projects.fivethirtyeight.com/polls/20220720_CT05loganinternal.pdf",
+    "created_at": "2022-07-20",
+    "startDate": "2022-06-29",
+    "endDate": "2022-06-30",
+    "pollster": "Public Opinion Strategies",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/public-opinion-strategies/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Hayes",
+        "pct": "46.0",
+        "party": "Dem",
+        "incumbent": true
+      },
+      {
+        "choice": "Logan",
+        "pct": "41.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 5",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "NRCC",
+        "partisan": "Republican Party",
+        "internal": true,
+        "url": "https://www.nrcc.org/"
+      },
+      {
+        "sponsor": "George Logan",
+        "partisan": "Republican Party",
+        "candidate": true
+      }
+    ],
+    "internal": true,
+    "inAvg": false,
+    "cycle": "2022",
+    "partisan": "REP",
+    "state": "Connecticut",
+    "district": "5"
+  },
+  {
+    "id": "158239",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://www.washingtonexaminer.com/news/campaigns/biden-unpopularity-boosts-iowa-gop-challenger-nunn",
+    "created_at": "2022-07-21",
+    "startDate": "2022-07-09",
+    "endDate": "2022-07-11",
+    "pollster": "Moore Information",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/moore-information/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Axne",
+        "pct": "43.0",
+        "party": "Dem",
+        "incumbent": true
+      },
+      {
+        "choice": "Nunn",
+        "pct": "43.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 3",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "NRCC",
+        "partisan": "Republican Party",
+        "internal": true,
+        "url": "https://www.nrcc.org/"
+      },
+      {
+        "sponsor": "Zach Nunn",
+        "partisan": "Republican Party",
+        "candidate": true
+      }
+    ],
+    "internal": true,
+    "inAvg": false,
+    "cycle": "2022",
+    "partisan": "REP",
+    "state": "Iowa",
+    "district": "3"
+  },
+  {
+    "id": "158309",
+    "subgroup": "All polls",
+    "sampleSize": "714",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://www.washingtonexaminer.com/news/campaigns/democrat-controlled-ny-district-could-flip-first-time",
+    "created_at": "2022-07-22",
+    "startDate": "2022-07-11",
+    "endDate": "2022-07-12",
+    "pollster": "co/efficient",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/co-efficient/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Lafazan",
+        "pct": "33.0",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Devolder-Santos",
+        "pct": "44.0",
+        "party": "Rep",
+        "incumbent": false
+      },
+      {
+        "choice": "D'Arrigo",
+        "pct": "8.0",
+        "party": "Oth",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 3",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "George A.D. Santos",
+        "partisan": "Republican Party",
+        "candidate": true
+      }
+    ],
+    "internal": true,
+    "inAvg": false,
+    "cycle": "2022",
+    "partisan": "REP",
+    "state": "New York",
+    "district": "3"
+  },
+  {
+    "id": "158310",
+    "subgroup": "All polls",
+    "sampleSize": "594",
+    "population": "v",
+    "grade": "A-",
+    "url": "https://www.kpvi.com/news/national_news/poll-iowas-1st-2nd-and-3rd-districts-tied-or-separated-by-just-1-point/article_b8fc7017-ba59-55f1-a651-31d499b7a0e8.html",
+    "created_at": "2022-07-22",
+    "startDate": "2022-07-19",
+    "endDate": "2022-07-20",
+    "pollster": "Public Policy Polling",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/public-policy-polling/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Mathis",
+        "pct": "44.0",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Hinson",
+        "pct": "44.0",
+        "party": "Rep",
+        "incumbent": true
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 2",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "Liz Mathis",
+        "partisan": "Democratic Party",
+        "candidate": true
+      }
+    ],
+    "internal": true,
+    "inAvg": false,
+    "cycle": "2022",
+    "partisan": "DEM",
+    "state": "Iowa",
+    "district": "2"
+  },
+  {
+    "id": "158314",
+    "subgroup": "All polls",
+    "sampleSize": "375",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://www.thegazette.com/campaigns-elections/campaign-almanac-polls-say-3-iowa-congressional-races-are-close/",
+    "created_at": "2022-07-22",
+    "startDate": "2022-06-30",
+    "endDate": "2022-07-04",
+    "pollster": "Change Research",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/change-research/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Bohannan",
+        "pct": "38.0",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Miller-Meeks",
+        "pct": "39.0",
+        "party": "Rep",
+        "incumbent": true
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "Christina Bohannan",
+        "partisan": "Democratic Party",
+        "candidate": true
+      }
+    ],
+    "internal": true,
+    "inAvg": false,
+    "cycle": "2022",
+    "partisan": "DEM",
+    "state": "Iowa",
+    "district": "1"
+  },
+  {
+    "id": "158666",
+    "subgroup": "All polls",
+    "sampleSize": "625",
+    "population": "lv",
+    "grade": "",
+    "url": "https://newjerseyglobe.com/congress/gop-internal-poll-has-norcross-lead-by-5-points-in-nj-1/",
+    "created_at": "2022-07-25",
+    "startDate": "2022-07-13",
+    "endDate": "2022-07-19",
+    "pollster": "Grassroots Targeting",
+    "pollsterRatingLink": null,
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Norcross",
+        "pct": "49.0",
+        "party": "Dem",
+        "incumbent": true
+      },
+      {
+        "choice": "Gustafson",
+        "pct": "44.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "Claire Gustafson",
+        "partisan": "Republican Party",
+        "candidate": true
+      }
+    ],
+    "internal": true,
+    "inAvg": false,
+    "cycle": "2022",
+    "partisan": "REP,",
+    "state": "New Jersey",
+    "district": "1"
+  },
+  {
+    "id": "158756",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "lv",
+    "grade": "C/D",
+    "url": "https://nypost.com/2022/07/26/mike-lawler-set-to-beat-sean-patrick-maloney-in-ny-race-poll/",
+    "created_at": "2022-07-26",
+    "startDate": "2022-07-19",
+    "endDate": "2022-07-21",
+    "pollster": "McLaughlin & Associates",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/mclaughlin-associates/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Maloney",
+        "pct": "44.0",
+        "party": "Dem",
+        "incumbent": true
+      },
+      {
+        "choice": "Lawler",
+        "pct": "46.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 17",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "Michael V. Lawler",
+        "partisan": "Republican Party",
+        "candidate": true
+      }
+    ],
+    "internal": true,
+    "inAvg": false,
+    "cycle": "2022",
+    "partisan": "REP",
+    "state": "New York",
+    "district": "17"
+  },
+  {
+    "id": "158757",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "lv",
+    "grade": "C/D",
+    "url": "https://nypost.com/2022/07/26/mike-lawler-set-to-beat-sean-patrick-maloney-in-ny-race-poll/",
+    "created_at": "2022-07-26",
+    "startDate": "2022-07-19",
+    "endDate": "2022-07-21",
+    "pollster": "McLaughlin & Associates",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/mclaughlin-associates/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Biaggi",
+        "pct": "41.0",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Lawler",
+        "pct": "47.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 17",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "Michael V. Lawler",
+        "partisan": "Republican Party",
+        "candidate": true
+      }
+    ],
+    "internal": true,
+    "inAvg": false,
+    "cycle": "2022",
+    "partisan": "REP",
+    "state": "New York",
+    "district": "17"
+  },
+  {
+    "id": "158758",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "lv",
+    "grade": "A-",
+    "url": "https://www.politico.com/minutes/congress/07-26-2022/Parl-problems/",
+    "created_at": "2022-07-26",
+    "startDate": "2022-07-16",
+    "endDate": "2022-07-20",
+    "pollster": "Public Opinion Strategies",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/public-opinion-strategies/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Mahmood",
+        "pct": "35.0",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Kim",
+        "pct": "51.0",
+        "party": "Rep",
+        "incumbent": true
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 40",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "NRCC",
+        "partisan": "Republican Party",
+        "internal": true,
+        "url": "https://www.nrcc.org/"
+      },
+      {
+        "sponsor": "Young Kim",
+        "partisan": "Republican Party",
+        "candidate": true
+      }
+    ],
+    "internal": true,
+    "inAvg": false,
+    "cycle": "2022",
+    "partisan": "REP",
+    "state": "California",
+    "district": "40"
+  },
+  {
+    "id": "158879",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://314action.org/wp-content/uploads/2022/06/CO-08-Positive-GE-Benchmark-Final-Weighted-Topline-F06.15.22.pdf",
+    "created_at": "2022-07-28",
+    "startDate": "2022-06-09",
+    "endDate": "2022-06-13",
+    "pollster": "Global Strategy Group",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/global-strategy-group/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Caraveo",
+        "pct": "36.0",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Kirkmeyer",
+        "pct": "44.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 8",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "314 Action (hybrid PAC)",
+        "partisan": "Democratic Party",
+        "internal": false,
+        "url": "https://314action.org/"
+      }
+    ],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "partisan": "DEM",
+    "state": "Colorado",
+    "district": "8"
+  },
+  {
+    "id": "158926",
+    "subgroup": "All polls",
+    "sampleSize": "1219",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://projects.fivethirtyeight.com/polls/20220729_AK_AlaskaSurvey.pdf",
+    "created_at": "2022-07-29",
+    "startDate": "2022-07-20",
+    "endDate": "2022-07-25",
+    "pollster": "Alaska Survey Research",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/alaska-survey-research/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Peltola",
+        "pct": "41.1",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Palin",
+        "pct": "29.4",
+        "party": "Rep",
+        "incumbent": false
+      },
+      {
+        "choice": "Begich",
+        "pct": "29.6",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "Alaska",
+    "district": "1"
+  },
+  {
+    "id": "158927",
+    "subgroup": "All polls",
+    "sampleSize": "1219",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://projects.fivethirtyeight.com/polls/20220729_AK_AlaskaSurvey.pdf",
+    "created_at": "2022-07-29",
+    "startDate": "2022-07-20",
+    "endDate": "2022-07-25",
+    "pollster": "Alaska Survey Research",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/alaska-survey-research/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Peltola",
+        "pct": "45.3",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Begich",
+        "pct": "54.7",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "Alaska",
+    "district": "1"
+  },
+  {
+    "id": "158928",
+    "subgroup": "All polls",
+    "sampleSize": "1219",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://projects.fivethirtyeight.com/polls/20220729_AK_AlaskaSurvey.pdf",
+    "created_at": "2022-07-29",
+    "startDate": "2022-07-20",
+    "endDate": "2022-07-25",
+    "pollster": "Alaska Survey Research",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/alaska-survey-research/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Peltola",
+        "pct": "50.8",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Palin",
+        "pct": "49.2",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "Alaska",
+    "district": "1"
+  },
+  {
+    "id": "159051",
+    "subgroup": "All polls",
+    "sampleSize": "440",
+    "population": "lv",
+    "grade": "",
+    "url": "https://floridapolitics.com/archives/542685-survey-finds-annette-taddeo-within-striking-distance-of-maria-elvira-salazar-in-cd-27/",
+    "created_at": "2022-07-31",
+    "startDate": "2022-07-26",
+    "endDate": "2022-07-27",
+    "pollster": "Alvarado Strategies",
+    "pollsterRatingLink": null,
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Taddeo",
+        "pct": "34.0",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Salazar",
+        "pct": "39.0",
+        "party": "Rep",
+        "incumbent": true
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 27",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "Floridians for Economic Advancement (PAC)",
+        "partisan": null,
+        "internal": false,
+        "url": "https://www.transparencyusa.org/fl/pac/floridians-for-economic-advancement-73687-pac/payees"
+      }
+    ],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "Florida",
+    "district": "27"
+  },
+  {
+    "id": "159060",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://projects.fivethirtyeight.com/polls/GSG_NM02_Vasquez_Internal_080122.pdf",
+    "created_at": "2022-08-01",
+    "startDate": "2022-07-19",
+    "endDate": "2022-07-25",
+    "pollster": "Global Strategy Group",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/global-strategy-group/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Vasquez",
+        "pct": "45.0",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Herrell",
+        "pct": "44.0",
+        "party": "Rep",
+        "incumbent": true
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 2",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "Gabriel Vasquez",
+        "partisan": "Democratic Party",
+        "candidate": true
+      }
+    ],
+    "internal": true,
+    "inAvg": false,
+    "cycle": "2022",
+    "partisan": "DEM",
+    "state": "New Mexico",
+    "district": "2"
+  },
+  {
+    "id": "159067",
+    "subgroup": "All polls",
+    "sampleSize": "1253",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://twitter.com/IvanMoore1/status/1554216071074562048",
+    "created_at": "2022-08-01",
+    "startDate": "2022-07-20",
+    "endDate": "2022-07-25",
+    "pollster": "Alaska Survey Research",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/alaska-survey-research/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Peltola",
+        "pct": "39.4",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Palin",
+        "pct": "26.9",
+        "party": "Rep",
+        "incumbent": false
+      },
+      {
+        "choice": "Begich",
+        "pct": "25.8",
+        "party": "Rep",
+        "incumbent": false
+      },
+      {
+        "choice": "Sweeney",
+        "pct": "7.9",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "Alaska",
+    "district": "1"
+  },
+  {
+    "id": "159068",
+    "subgroup": "All polls",
+    "sampleSize": "1253",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://twitter.com/IvanMoore1/status/1554216071074562048",
+    "created_at": "2022-08-01",
+    "startDate": "2022-07-20",
+    "endDate": "2022-07-25",
+    "pollster": "Alaska Survey Research",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/alaska-survey-research/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Peltola",
+        "pct": "41.9",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Palin",
+        "pct": "28.7",
+        "party": "Rep",
+        "incumbent": false
+      },
+      {
+        "choice": "Begich",
+        "pct": "29.4",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "Alaska",
+    "district": "1"
+  },
+  {
+    "id": "159069",
+    "subgroup": "All polls",
+    "sampleSize": "1253",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://twitter.com/IvanMoore1/status/1554216071074562048",
+    "created_at": "2022-08-01",
+    "startDate": "2022-07-20",
+    "endDate": "2022-07-25",
+    "pollster": "Alaska Survey Research",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/alaska-survey-research/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Peltola",
+        "pct": "45.8",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Begich",
+        "pct": "54.2",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "Alaska",
+    "district": "1"
+  },
+  {
+    "id": "159070",
+    "subgroup": "All polls",
+    "sampleSize": "1253",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://twitter.com/IvanMoore1/status/1554216071074562048",
+    "created_at": "2022-08-01",
+    "startDate": "2022-07-20",
+    "endDate": "2022-07-25",
+    "pollster": "Alaska Survey Research",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/alaska-survey-research/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Peltola",
+        "pct": "52.5",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Palin",
+        "pct": "47.6",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "Alaska",
+    "district": "1"
+  },
+  {
+    "id": "159106",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://www.politico.com/f/?id=00000182-5f88-dd9f-a7ea-fff8a8520000",
+    "created_at": "2022-08-02",
+    "startDate": "2022-07-18",
+    "endDate": "2022-07-21",
+    "pollster": "Meeting Street Insights",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/meeting-street-insights/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Pettersen",
+        "pct": "44.0",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Aadland",
+        "pct": "42.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 7",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "Congressional Leadership Fund (super PAC)",
+        "partisan": "Republican Party",
+        "internal": false,
+        "url": "https://congressionalleadershipfund.org/"
+      }
+    ],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "partisan": "REP",
+    "state": "Colorado",
+    "district": "7"
+  },
+  {
+    "id": "159142",
+    "subgroup": "All polls",
+    "sampleSize": "544",
+    "population": "lv",
+    "grade": "A",
+    "url": "https://www.kaaltv.com/minnesota-news/minnesota-1st-congressional-district-special-ellection-exclusive-surveyusa-poll-brad-finstad-jeff-ettinger-latest/6539122/",
+    "created_at": "2022-08-02",
+    "startDate": "2022-07-26",
+    "endDate": "2022-07-30",
+    "pollster": "SurveyUSA",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/surveyusa/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Ettinger",
+        "pct": "38.0",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Finstad",
+        "pct": "46.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "KAAL-TV (Austin, Minn.)",
+        "partisan": null,
+        "internal": false,
+        "url": "https://www.kaaltv.com/"
+      }
+    ],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "Minnesota",
+    "district": "1"
+  },
+  {
+    "id": "159143",
+    "subgroup": "All polls",
+    "sampleSize": "407",
+    "population": "lv",
+    "grade": "C/D",
+    "url": "https://nypost.com/2022/08/02/marc-molinaro-leads-pat-ryan-in-ny-congressional-race-poll/?utm_source=NYPMetroTwitter&utm_medium=SocialFlow&utm_campaign=SocialFlow",
+    "created_at": "2022-08-02",
+    "startDate": "2022-07-26",
+    "endDate": "2022-07-28",
+    "pollster": "Triton Polling & Research",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/triton-polling-research/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Ryan",
+        "pct": "39.7",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Molinaro",
+        "pct": "49.5",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 19",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "Freedom Council",
+        "partisan": "Republican Party",
+        "internal": false,
+        "url": "https://www.freedomcouncilusa.com/"
+      }
+    ],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "partisan": "REP",
+    "state": "New York",
+    "district": "19"
+  },
+  {
+    "id": "159199",
+    "subgroup": "All polls",
+    "sampleSize": "600",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://twitter.com/Politics_Polls/status/1554695576679321600",
+    "created_at": "2022-08-03",
+    "startDate": "2022-07-13",
+    "endDate": "2022-07-15",
+    "pollster": "David Binder Research",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/david-binder-research/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Salas",
+        "pct": "43.0",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Valadao",
+        "pct": "35.0",
+        "party": "Rep",
+        "incumbent": true
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 22",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "DCCC",
+        "partisan": "Democratic Party",
+        "internal": true,
+        "url": "https://dccc.org/"
+      },
+      {
+        "sponsor": "Rudy Salas",
+        "partisan": "Democratic Party",
+        "candidate": true
+      }
+    ],
+    "internal": true,
+    "inAvg": false,
+    "cycle": "2022",
+    "partisan": "DEM",
+    "state": "California",
+    "district": "22"
+  },
+  {
+    "id": "159227",
+    "subgroup": "All polls",
+    "sampleSize": "550",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://www.coloradopolitics.com/elections/2022/internal-democratic-poll-shows-lauren-boebert-leading-challenger-adam-frisch-by-7-points/article_5a0c1326-1354-11ed-b8dd-db1388ba5977.html",
+    "created_at": "2022-08-03",
+    "startDate": "2022-07-21",
+    "endDate": "2022-07-25",
+    "pollster": "Keating Research",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/keating-research/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Frisch",
+        "pct": "42.0",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Boebert",
+        "pct": "49.0",
+        "party": "Rep",
+        "incumbent": true
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 3",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "Adam Frisch",
+        "partisan": "Democratic Party",
+        "candidate": true
+      }
+    ],
+    "internal": true,
+    "inAvg": false,
+    "cycle": "2022",
+    "partisan": "DEM",
+    "state": "Colorado",
+    "district": "3"
+  },
+  {
+    "id": "159252",
+    "subgroup": "All polls",
+    "sampleSize": "507",
+    "population": "lv",
+    "grade": "B",
+    "url": "https://drive.google.com/file/d/1z9F9JSS59vjXcXRc1d_1zsPFhekhuKs3/view",
+    "created_at": "2022-08-05",
+    "startDate": "2022-07-28",
+    "endDate": "2022-08-01",
+    "pollster": "GQR Research",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/gqr-research-gqrr/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Phillips",
+        "pct": "57.0",
+        "party": "Dem",
+        "incumbent": true
+      },
+      {
+        "choice": "Weiler",
+        "pct": "36.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 3",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "Dean Phillips",
+        "partisan": "Democratic Party",
+        "candidate": true
+      }
+    ],
+    "internal": true,
+    "inAvg": false,
+    "cycle": "2022",
+    "partisan": "DEM",
+    "state": "Minnesota",
+    "district": "3"
+  },
+  {
+    "id": "159267",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "lv",
+    "grade": "B+",
+    "url": "https://www.politico.com/news/2022/08/09/house-gop-polls-biden-00050458",
+    "created_at": "2022-08-09",
+    "startDate": "2022-07-26",
+    "endDate": "2022-07-28",
+    "pollster": "Cygnal",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/cygnal/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Salinas",
+        "pct": "40.0",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Erickson",
+        "pct": "47.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 6",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "NRCC",
+        "partisan": "Republican Party",
+        "internal": true,
+        "url": "https://www.nrcc.org/"
+      },
+      {
+        "sponsor": "Mike Erickson",
+        "partisan": "Republican Party",
+        "candidate": true
+      }
+    ],
+    "internal": true,
+    "inAvg": false,
+    "cycle": "2022",
+    "partisan": "REP",
+    "state": "Oregon",
+    "district": "6"
+  },
+  {
+    "id": "159268",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://www.politico.com/news/2022/08/09/house-gop-polls-biden-00050458",
+    "created_at": "2022-08-09",
+    "startDate": "2022-07-25",
+    "endDate": "2022-07-28",
+    "pollster": "Moore Information",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/moore-information/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Hoyle",
+        "pct": "46.0",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Skarlatos",
+        "pct": "41.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 4",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "NRCC",
+        "partisan": "Republican Party",
+        "internal": true,
+        "url": "https://www.nrcc.org/"
+      },
+      {
+        "sponsor": "Alek Skarlatos",
+        "partisan": "Republican Party",
+        "candidate": true
+      }
+    ],
+    "internal": true,
+    "inAvg": false,
+    "cycle": "2022",
+    "partisan": "REP",
+    "state": "Oregon",
+    "district": "4"
+  },
+  {
+    "id": "159298",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://coloradosun.com/2022/08/09/barbara-kirkmeyer-yadira-caraveo-poll-8th-district/",
+    "created_at": "2022-08-09",
+    "startDate": "2022-07-26",
+    "endDate": "2022-08-02",
+    "pollster": "Global Strategy Group",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/global-strategy-group/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Caraveo",
+        "pct": "42.0",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Kirkmeyer",
+        "pct": "44.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 8",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "Yadira Caraveo",
+        "partisan": "Democratic Party",
+        "candidate": true
+      }
+    ],
+    "internal": true,
+    "inAvg": false,
+    "cycle": "2022",
+    "partisan": "DEM",
+    "state": "Colorado",
+    "district": "8"
+  },
+  {
+    "id": "159301",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://www.politico.com/news/2022/08/09/house-gop-polls-biden-00050458",
+    "created_at": "2022-08-09",
+    "startDate": "2022-08-03",
+    "endDate": "2022-08-07",
+    "pollster": "Moore Information",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/moore-information/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Gray",
+        "pct": "47.0",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Duarte",
+        "pct": "43.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 13",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "NRCC",
+        "partisan": "Republican Party",
+        "internal": true,
+        "url": "https://www.nrcc.org/"
+      },
+      {
+        "sponsor": "John Duarte",
+        "partisan": "Republican Party",
+        "candidate": true
+      }
+    ],
+    "internal": true,
+    "inAvg": false,
+    "cycle": "2022",
+    "partisan": "REP",
+    "state": "California",
+    "district": "13"
+  },
+  {
+    "id": "159337",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "rv",
+    "grade": "B+",
+    "url": "https://congressionalleadershipfund.org/blog/poll-logan-hayes-tied-in-ct-05/",
+    "created_at": "2022-08-10",
+    "startDate": "2022-07-16",
+    "endDate": "2022-07-24",
+    "pollster": "Tarrance Group",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/tarrance-group/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Hayes",
+        "pct": "45.0",
+        "party": "Dem",
+        "incumbent": true
+      },
+      {
+        "choice": "Logan",
+        "pct": "45.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 5",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "Congressional Leadership Fund (super PAC)",
+        "partisan": "Republican Party",
+        "internal": false,
+        "url": "https://congressionalleadershipfund.org/"
+      }
+    ],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "partisan": "REP",
+    "state": "Connecticut",
+    "district": "5"
+  },
+  {
+    "id": "159417",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "lv",
+    "grade": "B+",
+    "url": "https://nypost.com/2022/07/26/joe-bidens-popularity-takes-a-hit-in-his-hometown-scranton/",
+    "created_at": "2022-08-10",
+    "startDate": "2022-06-23",
+    "endDate": "2022-06-25",
+    "pollster": "Cygnal",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/cygnal/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Cartwright",
+        "pct": "45.0",
+        "party": "Dem",
+        "incumbent": true
+      },
+      {
+        "choice": "Bognet",
+        "pct": "46.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 8",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "NRCC",
+        "partisan": "Republican Party",
+        "internal": true,
+        "url": "https://www.nrcc.org/"
+      },
+      {
+        "sponsor": "Jim Bognet",
+        "partisan": "Republican Party",
+        "candidate": true
+      }
+    ],
+    "internal": true,
+    "inAvg": false,
+    "cycle": "2022",
+    "partisan": "REP",
+    "state": "Pennsylvania",
+    "district": "8"
+  },
+  {
+    "id": "159427",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://www.termlimits.com/library/USTL%20NC06%20Toplines.pdf",
+    "created_at": "2022-08-11",
+    "startDate": "2022-06-04",
+    "endDate": "2022-06-06",
+    "pollster": "RMG Research",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/rmg-research/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Manning",
+        "pct": "48.0",
+        "party": "Dem",
+        "incumbent": true
+      },
+      {
+        "choice": "Castelli",
+        "pct": "39.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 6",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "U.S. Term Limits",
+        "partisan": null,
+        "internal": false,
+        "url": "https://www.termlimits.com/"
+      }
+    ],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "North Carolina",
+    "district": "6"
+  },
+  {
+    "id": "159428",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://www.termlimits.com/library/USTL%20IL13%20Toplines.pdf",
+    "created_at": "2022-08-11",
+    "startDate": "2022-07-21",
+    "endDate": "2022-07-28",
+    "pollster": "RMG Research",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/rmg-research/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Budzinski",
+        "pct": "39.0",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Deering",
+        "pct": "36.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 13",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "U.S. Term Limits",
+        "partisan": null,
+        "internal": false,
+        "url": "https://www.termlimits.com/"
+      }
+    ],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "Illinois",
+    "district": "13"
+  },
+  {
+    "id": "159429",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://www.termlimits.com/library/USTL%20NV03%20Toplines.pdf",
+    "created_at": "2022-08-11",
+    "startDate": "2022-07-23",
+    "endDate": "2022-07-29",
+    "pollster": "RMG Research",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/rmg-research/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Lee",
+        "pct": "41.0",
+        "party": "Dem",
+        "incumbent": true
+      },
+      {
+        "choice": "Becker",
+        "pct": "44.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 3",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "U.S. Term Limits",
+        "partisan": null,
+        "internal": false,
+        "url": "https://www.termlimits.com/"
+      }
+    ],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "Nevada",
+    "district": "3"
+  },
+  {
+    "id": "159430",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://www.termlimits.com/library/USTL%20NJ03%20Toplines.pdf",
+    "created_at": "2022-08-11",
+    "startDate": "2022-07-22",
+    "endDate": "2022-07-29",
+    "pollster": "RMG Research",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/rmg-research/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Kim",
+        "pct": "44.0",
+        "party": "Dem",
+        "incumbent": true
+      },
+      {
+        "choice": "Healey",
+        "pct": "38.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 3",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "U.S. Term Limits",
+        "partisan": null,
+        "internal": false,
+        "url": "https://www.termlimits.com/"
+      }
+    ],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "New Jersey",
+    "district": "3"
+  },
+  {
+    "id": "159431",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://www.termlimits.com/library/USTL%20CO07%20Toplines.pdf",
+    "created_at": "2022-08-11",
+    "startDate": "2022-07-24",
+    "endDate": "2022-07-30",
+    "pollster": "RMG Research",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/rmg-research/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Pettersen",
+        "pct": "44.0",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Aadland",
+        "pct": "41.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 7",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "U.S. Term Limits",
+        "partisan": null,
+        "internal": false,
+        "url": "https://www.termlimits.com/"
+      }
+    ],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "Colorado",
+    "district": "7"
+  },
+  {
+    "id": "159432",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://www.termlimits.com/library/USTL%20CA09%20Toplines.pdf",
+    "created_at": "2022-08-11",
+    "startDate": "2022-07-19",
+    "endDate": "2022-07-26",
+    "pollster": "RMG Research",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/rmg-research/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Harder",
+        "pct": "38.0",
+        "party": "Dem",
+        "incumbent": true
+      },
+      {
+        "choice": "Patti",
+        "pct": "38.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 9",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "U.S. Term Limits",
+        "partisan": null,
+        "internal": false,
+        "url": "https://www.termlimits.com/"
+      }
+    ],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "California",
+    "district": "9"
+  },
+  {
+    "id": "159433",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://www.termlimits.com/library/USTL%20CT05%20Toplines.pdf",
+    "created_at": "2022-08-11",
+    "startDate": "2022-07-20",
+    "endDate": "2022-07-26",
+    "pollster": "RMG Research",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/rmg-research/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Hayes",
+        "pct": "45.0",
+        "party": "Dem",
+        "incumbent": true
+      },
+      {
+        "choice": "Logan",
+        "pct": "37.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 5",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "U.S. Term Limits",
+        "partisan": null,
+        "internal": false,
+        "url": "https://www.termlimits.com/"
+      }
+    ],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "Connecticut",
+    "district": "5"
+  },
+  {
+    "id": "159434",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://www.termlimits.com/library/USTL%20OR06%20Toplines.pdf",
+    "created_at": "2022-08-11",
+    "startDate": "2022-06-04",
+    "endDate": "2022-06-09",
+    "pollster": "RMG Research",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/rmg-research/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Salinas",
+        "pct": "46.0",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Erickson",
+        "pct": "43.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 6",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "U.S. Term Limits",
+        "partisan": null,
+        "internal": false,
+        "url": "https://www.termlimits.com/"
+      }
+    ],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "Oregon",
+    "district": "6"
+  },
+  {
+    "id": "159435",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://www.termlimits.com/library/USTL%20OR04%20Toplines.pdf",
+    "created_at": "2022-08-11",
+    "startDate": "2022-06-04",
+    "endDate": "2022-06-06",
+    "pollster": "RMG Research",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/rmg-research/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Hoyle",
+        "pct": "46.0",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Skarlatos",
+        "pct": "45.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 4",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "U.S. Term Limits",
+        "partisan": null,
+        "internal": false,
+        "url": "https://www.termlimits.com/"
+      }
+    ],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "Oregon",
+    "district": "4"
+  },
+  {
+    "id": "159436",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://www.termlimits.com/library/USTL%20CA13%20Toplines.pdf",
+    "created_at": "2022-08-11",
+    "startDate": "2022-07-26",
+    "endDate": "2022-08-02",
+    "pollster": "RMG Research",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/rmg-research/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Gray",
+        "pct": "37.0",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Duarte",
+        "pct": "37.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 13",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "U.S. Term Limits",
+        "partisan": null,
+        "internal": false,
+        "url": "https://www.termlimits.com/"
+      }
+    ],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "California",
+    "district": "13"
+  },
+  {
+    "id": "159448",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://www.termlimits.com/library/USTL%20NC01%20Toplines.pdf",
+    "created_at": "2022-08-11",
+    "startDate": "2022-06-04",
+    "endDate": "2022-06-06",
+    "pollster": "RMG Research",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/rmg-research/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Davis",
+        "pct": "45.0",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Smith",
+        "pct": "39.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "U.S. Term Limits",
+        "partisan": null,
+        "internal": false,
+        "url": "https://www.termlimits.com/"
+      }
+    ],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "North Carolina",
+    "district": "1"
+  },
+  {
+    "id": "159449",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://www.termlimits.com/library/2022%20Nebraska-2%20Poll%20Executive%20Summary.pdf",
+    "created_at": "2022-08-11",
+    "startDate": "2022-05-19",
+    "endDate": "2022-05-20",
+    "pollster": "RMG Research",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/rmg-research/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Vargas",
+        "pct": "37.0",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Bacon",
+        "pct": "52.0",
+        "party": "Rep",
+        "incumbent": true
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 2",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "U.S. Term Limits",
+        "partisan": null,
+        "internal": false,
+        "url": "https://www.termlimits.com/"
+      }
+    ],
+    "internal": false,
+    "inAvg": true,
+    "cycle": "2022",
+    "state": "Nebraska",
+    "district": "2"
+  },
+  {
+    "id": "159450",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://www.termlimits.com/library/USTL%20MN02%20Toplines.pdf",
+    "created_at": "2022-08-11",
+    "startDate": "2022-07-19",
+    "endDate": "2022-07-26",
+    "pollster": "RMG Research",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/rmg-research/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Craig",
+        "pct": "47.0",
+        "party": "Dem",
+        "incumbent": true
+      },
+      {
+        "choice": "Kistner",
+        "pct": "46.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 2",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "U.S. Term Limits",
+        "partisan": null,
+        "internal": false,
+        "url": "https://www.termlimits.com/"
+      }
+    ],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "Minnesota",
+    "district": "2"
+  },
+  {
+    "id": "159451",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://www.termlimits.com/library/USTL%20PA17%20Toplines.pdf",
+    "created_at": "2022-08-11",
+    "startDate": "2022-06-04",
+    "endDate": "2022-06-06",
+    "pollster": "RMG Research",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/rmg-research/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Deluzio",
+        "pct": "44.0",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Shaffer",
+        "pct": "44.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 17",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "U.S. Term Limits",
+        "partisan": null,
+        "internal": false,
+        "url": "https://www.termlimits.com/"
+      }
+    ],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "Pennsylvania",
+    "district": "17"
+  },
+  {
+    "id": "159452",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://www.termlimits.com/library/USTL%20KS03%20Toplines.pdf",
+    "created_at": "2022-08-11",
+    "startDate": "2022-07-21",
+    "endDate": "2022-07-28",
+    "pollster": "RMG Research",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/rmg-research/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Davids",
+        "pct": "45.0",
+        "party": "Dem",
+        "incumbent": true
+      },
+      {
+        "choice": "Adkins",
+        "pct": "46.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 3",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "U.S. Term Limits",
+        "partisan": null,
+        "internal": false,
+        "url": "https://www.termlimits.com/"
+      }
+    ],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "Kansas",
+    "district": "3"
+  },
+  {
+    "id": "159459",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://www.termlimits.com/library/USTL%20TX34%20Toplines.pdf",
+    "created_at": "2022-08-11",
+    "startDate": "2022-07-23",
+    "endDate": "2022-08-01",
+    "pollster": "RMG Research",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/rmg-research/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Gonzalez",
+        "pct": "47.0",
+        "party": "Dem",
+        "incumbent": true
+      },
+      {
+        "choice": "Flores",
+        "pct": "43.0",
+        "party": "Rep",
+        "incumbent": true
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 34",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "U.S. Term Limits",
+        "partisan": null,
+        "internal": false,
+        "url": "https://www.termlimits.com/"
+      }
+    ],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "Texas",
+    "district": "34"
+  },
+  {
+    "id": "159460",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://www.termlimits.com/library/USTL%20CA22%20Toplines.pdf",
+    "created_at": "2022-08-11",
+    "startDate": "2022-07-30",
+    "endDate": "2022-08-05",
+    "pollster": "RMG Research",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/rmg-research/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Salas",
+        "pct": "39.0",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Valadao",
+        "pct": "34.0",
+        "party": "Rep",
+        "incumbent": true
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 22",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "U.S. Term Limits",
+        "partisan": null,
+        "internal": false,
+        "url": "https://www.termlimits.com/"
+      }
+    ],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "California",
+    "district": "22"
+  },
+  {
+    "id": "159461",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://www.termlimits.com/library/USTL%20OH13%20Toplines.pdf",
+    "created_at": "2022-08-11",
+    "startDate": "2022-05-19",
+    "endDate": "2022-05-20",
+    "pollster": "RMG Research",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/rmg-research/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Sykes",
+        "pct": "37.0",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Gilbert",
+        "pct": "46.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 13",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "U.S. Term Limits",
+        "partisan": null,
+        "internal": false,
+        "url": "https://www.termlimits.com/"
+      }
+    ],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "Ohio",
+    "district": "13"
+  },
+  {
+    "id": "159462",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://www.termlimits.com/library/USTL%20IA03%20Toplines.pdf",
+    "created_at": "2022-08-11",
+    "startDate": "2022-07-29",
+    "endDate": "2022-08-05",
+    "pollster": "RMG Research",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/rmg-research/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Axne",
+        "pct": "41.0",
+        "party": "Dem",
+        "incumbent": true
+      },
+      {
+        "choice": "Nunn",
+        "pct": "49.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 3",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "U.S. Term Limits",
+        "partisan": null,
+        "internal": false,
+        "url": "https://www.termlimits.com/"
+      }
+    ],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "Iowa",
+    "district": "3"
+  },
+  {
+    "id": "159463",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://www.termlimits.com/library/USTL%20NJ07%20Toplines.pdf",
+    "created_at": "2022-08-11",
+    "startDate": "2022-07-23",
+    "endDate": "2022-07-28",
+    "pollster": "RMG Research",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/rmg-research/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Malinowski",
+        "pct": "38.0",
+        "party": "Dem",
+        "incumbent": true
+      },
+      {
+        "choice": "Kean",
+        "pct": "46.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 7",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "U.S. Term Limits",
+        "partisan": null,
+        "internal": false,
+        "url": "https://www.termlimits.com/"
+      }
+    ],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "New Jersey",
+    "district": "7"
+  },
+  {
+    "id": "159464",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://www.termlimits.com/library/USTL%20MI08%20Toplines.pdf",
+    "created_at": "2022-08-11",
+    "startDate": "2022-07-28",
+    "endDate": "2022-08-04",
+    "pollster": "RMG Research",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/rmg-research/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Kildee",
+        "pct": "43.0",
+        "party": "Dem",
+        "incumbent": true
+      },
+      {
+        "choice": "Junge",
+        "pct": "40.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 8",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "U.S. Term Limits",
+        "partisan": null,
+        "internal": false,
+        "url": "https://www.termlimits.com/"
+      }
+    ],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "Michigan",
+    "district": "8"
+  },
+  {
+    "id": "159465",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://www.termlimits.com/library/USTL%20IL08%20Toplines.pdf",
+    "created_at": "2022-08-11",
+    "startDate": "2022-07-23",
+    "endDate": "2022-07-31",
+    "pollster": "RMG Research",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/rmg-research/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Krishnamoorthi",
+        "pct": "45.0",
+        "party": "Dem",
+        "incumbent": true
+      },
+      {
+        "choice": "Dargis",
+        "pct": "39.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 8",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "U.S. Term Limits",
+        "partisan": null,
+        "internal": false,
+        "url": "https://www.termlimits.com/"
+      }
+    ],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "Illinois",
+    "district": "8"
+  },
+  {
+    "id": "159466",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://www.termlimits.com/library/USTL%20%20Toplines.pdf",
+    "created_at": "2022-08-11",
+    "startDate": "2022-05-19",
+    "endDate": "2022-05-20",
+    "pollster": "RMG Research",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/rmg-research/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Mrvan",
+        "pct": "47.0",
+        "party": "Dem",
+        "incumbent": true
+      },
+      {
+        "choice": "Green",
+        "pct": "40.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "U.S. Term Limits",
+        "partisan": null,
+        "internal": false,
+        "url": "https://www.termlimits.com/"
+      }
+    ],
+    "internal": false,
+    "inAvg": false,
+    "cycle": "2022",
+    "state": "Indiana",
+    "district": "1"
+  },
+  {
+    "id": "159471",
+    "subgroup": "All polls",
+    "sampleSize": "501",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://twitter.com/allymutnick/status/1557804161114185731?s=20&t=jQQ2jfnueErKKIpQR4cJhw",
+    "created_at": "2022-08-11",
+    "startDate": "2022-08-03",
+    "endDate": "2022-08-07",
+    "pollster": "Impact Research",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/alg-research/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Vargas",
+        "pct": "46.0",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Bacon",
+        "pct": "47.0",
+        "party": "Rep",
+        "incumbent": true
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 2",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "314 Action (hybrid PAC)",
+        "partisan": "Democratic Party",
+        "internal": false,
+        "url": "https://314action.org/"
+      }
+    ],
+    "internal": false,
+    "inAvg": true,
+    "cycle": "2022",
+    "partisan": "DEM",
+    "state": "Nebraska",
+    "district": "2"
+  },
+  {
+    "id": "159568",
+    "subgroup": "All polls",
+    "sampleSize": "714",
+    "population": "lv",
+    "grade": "A-",
+    "url": "https://www.politicspa.com/internal-pa-10-poll-daniels-44-perry-41/110868/?utm_source=dlvr.it&utm_medium=twitter",
+    "created_at": "2022-08-15",
+    "startDate": "2022-08-09",
+    "endDate": "2022-08-10",
+    "pollster": "Public Policy Polling",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/public-policy-polling/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Daniels",
+        "pct": "44.0",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Perry",
+        "pct": "41.0",
+        "party": "Rep",
+        "incumbent": true
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 10",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "Shamaine Daniels",
+        "partisan": "Democratic Party",
+        "candidate": true
+      }
+    ],
+    "internal": true,
+    "inAvg": false,
+    "cycle": "2022",
+    "partisan": "DEM",
+    "state": "Pennsylvania",
+    "district": "10"
+  },
+  {
+    "id": "159571",
+    "subgroup": "All polls",
+    "sampleSize": "480",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://twitter.com/Politics_Polls/status/1559276274157342720?s=20&t=qoQt52OEsYMeLMkb9iesLA",
+    "created_at": "2022-08-15",
+    "startDate": "2022-08-06",
+    "endDate": "2022-08-08",
+    "pollster": "DCCC Targeting and Analytics Department",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/dccc-targeting-and-analytics-department/",
+    "partisan_pollster": "Democratic Party",
+    "answers": [
+      {
+        "choice": "Ryan",
+        "pct": "43.0",
+        "party": "Dem",
+        "incumbent": false
+      },
+      {
+        "choice": "Molinaro",
+        "pct": "46.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 19",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "DCCC",
+        "partisan": "Democratic Party",
+        "internal": true,
+        "url": "https://dccc.org/"
+      }
+    ],
+    "internal": true,
+    "inAvg": false,
+    "cycle": "2022",
+    "partisan": "DEM",
+    "state": "New York",
+    "district": "19"
+  },
+  {
+    "id": "159578",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "lv",
+    "grade": "B",
+    "url": "https://www.politico.com/f/?id=00000182-a70a-d10b-a1bb-ff2ed8050000",
+    "created_at": "2022-08-16",
+    "startDate": "2022-08-02",
+    "endDate": "2022-08-09",
+    "pollster": "GQR Research",
+    "pollsterRatingLink": "https://projects.fivethirtyeight.com/pollster-ratings/gqr-research-gqrr/",
+    "partisan_pollster": null,
+    "answers": [
+      {
+        "choice": "Cartwright",
+        "pct": "52.0",
+        "party": "Dem",
+        "incumbent": true
+      },
+      {
+        "choice": "Bognet",
+        "pct": "46.0",
+        "party": "Rep",
+        "incumbent": false
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 8",
+    "tracking": false,
+    "headToHead": false,
+    "sponsors": [
+      {
+        "sponsor": "Matt Cartwright",
+        "partisan": "Democratic Party",
+        "candidate": true
+      }
+    ],
+    "internal": true,
+    "inAvg": false,
+    "cycle": "2022",
+    "partisan": "DEM",
+    "state": "Pennsylvania",
+    "district": "8"
+  }
+]

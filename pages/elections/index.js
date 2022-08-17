@@ -1,9 +1,8 @@
 import electionData from "../../public/elections/enriched-data-by-state.json";
 import { useState, useEffect } from "react";
-import { queryHousePollingData } from "../../helpers/pollingData";
+import { hasPollsForDistrict } from "../../helpers/pollingData";
 import { mapStateCodeToName } from "../../helpers/modLegislators";
-import * as d3 from "d3";
-import StateData from "../../components/politicians/elections/StateData";
+import StateData from "../../components/elections/StateData";
 import Accordion from "react-bootstrap/Accordion";
 import Table from "react-bootstrap/Table";
 import { Button } from "react-bootstrap";
@@ -53,6 +52,7 @@ export default function ElectionsHome(props) {
                   <th>Cook PVI</th>
                   <th>Incumbent</th>
                   <th>Top Candidate By Fundraising</th>
+                  <th>Polling Available?</th>
                   <th>Link</th>
                 </tr>
               </thead>
@@ -61,6 +61,8 @@ export default function ElectionsHome(props) {
                   const { dist, incumbent } = district;
                   const topCandidate = district["results"][0].candidate_name;
                   const cookPVI = district["2022_pvi"];
+                  const [state, districtNumber] = dist.split("-");
+                  const stateName = mapStateCodeToName(state);
                   return (
                     <tr key={`top-table-${dist}`}>
                       <td>{dist}</td>
@@ -68,7 +70,12 @@ export default function ElectionsHome(props) {
                       <td>{incumbent}</td>
                       <td>{topCandidate}</td>
                       <td>
-                        <Button href="#" variant="primary">
+                        {hasPollsForDistrict(stateName, districtNumber)
+                          ? "Yes"
+                          : "No"}
+                      </td>
+                      <td>
+                        <Button href={`/elections/${dist}`} variant="primary">
                           Link
                         </Button>
                       </td>
@@ -86,7 +93,7 @@ export default function ElectionsHome(props) {
         </div>
         <div className="row d-flex align-items-center justify-content-center ">
           <div className="col-lg-8 col-md-12">
-            <Accordion>
+            <Accordion alwaysOpen>
               {states.map((stateCode, index) =>
                 StateData(stateCode, electionData[stateCode], index)
               )}

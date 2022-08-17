@@ -1,9 +1,10 @@
 import { useState, useEffect } from "react";
 import { FaCaretRight } from "react-icons/fa";
-import { mapStateCodeToName } from "../../../helpers/modLegislators";
+import { mapStateCodeToName } from "../../helpers/modLegislators";
 import Accordion from "react-bootstrap/Accordion";
 import Table from "react-bootstrap/Table";
 import Button from "react-bootstrap/Button";
+import { hasPollsForDistrict } from "../../helpers/pollingData";
 
 export default function StateData(stateCode, stateData, index) {
   const [isOpen, setIsOpen] = useState(false);
@@ -23,12 +24,15 @@ export default function StateData(stateCode, stateData, index) {
                 <th>Cook PVI</th>
                 <th>Incumbent</th>
                 <th>Top candidate by fundraising</th>
+                <th>Polling data available?</th>
                 <th>Link</th>
               </tr>
             </thead>
             <tbody>
               {districts.map((distCode, index) => {
                 const district = stateData[distCode];
+                const stateName = mapStateCodeToName(stateCode);
+                console.log({ stateName, distCode });
 
                 return (
                   <tr key={`${stateCode}-${index}-row`}>
@@ -37,7 +41,18 @@ export default function StateData(stateCode, stateData, index) {
                     <td>{district["incumbent"] + `(${district.party})`}</td>
                     <td>{district.results[0]["candidate_name"]}</td>
                     <td>
-                      <Button variant="primary" href="#">
+                      {hasPollsForDistrict(
+                        mapStateCodeToName(stateCode),
+                        distCode
+                      )
+                        ? "Yes"
+                        : "No"}
+                    </td>
+                    <td>
+                      <Button
+                        variant="primary"
+                        href={`/elections/${stateCode}-${distCode}`}
+                      >
                         Link
                       </Button>
                     </td>

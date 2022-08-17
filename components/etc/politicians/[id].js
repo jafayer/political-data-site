@@ -47,24 +47,6 @@ export default function Politician({ politician, polls }) {
       <p>Contributions: ${primaryCampaignCommittee.net_contributions}</p>
       <p>Spent: ${primaryCampaignCommittee.disbursements}</p>
       <p>Last Updated: {primaryCampaignCommittee.coverage_end_date}</p>
-
-      <div>
-        <h3>Recent Polls</h3>
-        {candidatePolls.map((poll) => {
-          // poll is an object containing poll.polls
-          const polls = poll.polls;
-          const toplines = polls.map((pollLine) => {
-            return <p>{`${pollLine.candidate_name}: ${pollLine.pct}`}</p>;
-          });
-
-          return (
-            <div>
-              <h4>{poll.createdAt}</h4>
-              {toplines}
-            </div>
-          );
-        })}
-      </div>
     </div>
   );
 }
