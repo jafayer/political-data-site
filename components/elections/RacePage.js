@@ -61,7 +61,9 @@ export default function DistrictPage({
     if (polls) {
       setActivePoll(polls[0]);
     }
-  });
+  }, [polls]);
+
+  console.log(activePoll);
 
   return (
     <>
